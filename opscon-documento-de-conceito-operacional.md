@@ -108,6 +108,12 @@ Os resíduos não aproveitáveis são **destinados a empresas ou cooperativas de
 
 ##### Ambiente de apoio
 
+- **Google Drive:** utilizados para registro de processos de desfazimento, controle de recebimentos e compartilhamento de informações com a SECTI.
+- **Sistemas de planilhas:** utilizados para análise e organização de dados operacionais, controle de lotes e rastreabilidade. Também utilizada para elaboração de relatórios técnicos e criação de dashboards para acompanhamento de metas e indicadores do programa.
+- **Infraestrutura física:** CRCs e SukaTech Labs com espaço para triagem, manutenção e armazenamento.
+- **Meios de transporte:** veículos para coleta e redistribuição de equipamentos.
+- **Documentos de apoio:** termo de doação, termo de renúncia e termo de responsabilidade.
+
 ### Eixo 2 - Capacitação e Empreendedorismo
 #### Contexto, objetivos, e escopo
 #### Políticas operacionais e restrições
