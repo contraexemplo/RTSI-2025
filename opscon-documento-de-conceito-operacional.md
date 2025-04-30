@@ -96,8 +96,8 @@ Responsabilidades: Participar das aulas, realizar atividades e avaliações, for
 
 - **Coordenador Geral:** Supervisiona todos os outros papéis
 - **Coordenador Psicopedagógico, Supervisor Técnico e Educador Social:** Acompanhamento pedagógico.
-- **Educador Social → Educando:**Ministra as aulas.
-- **Educador Social → Educando:**Aplicação de exercícios e avaliações.
+- **Educador Social → Educando:** Ministra as aulas.
+- **Educador Social → Educando:** Aplicação de exercícios e avaliações.
 
 ##### Outros atores envolvidos
 
