@@ -33,13 +33,13 @@
 #### Classes de usuário 
 As classes de usuário identificadas são:
 
-**Educador Social**
-**Coordenador Geral**
-**Coordenador Psicopedgógico**
-**Supervisor Ténico**
-**Educando**
-**Supervisor Administrativo**
-**Auxiliar Técnico e Logístico**
+- **Educador Social**
+- **Coordenador Geral**
+- **Coordenador Psicopedgógico**
+- **Supervisor Ténico**
+- **Educando**
+- **Supervisor Administrativo**
+- **Auxiliar Técnico e Logístico**
 
 ##### Estrutura organizacional
 ```text
@@ -94,30 +94,22 @@ Responsabilidades: Participar das aulas, realizar atividades e avaliações, for
 
 ##### Interações entre classes de usuário
 
-**Coordenador Geral:** Supervisiona todos os outros papéis
-
-**Coordenador Psicopedagógico, Supervisor Técnico e Educador Social:** Acompanhamento pedagógico.
-
-**Educador Social → Educando:**Ministra as aulas.
-
-**Educador Social → Educando:**Aplicação de exercícios e avaliações.
+- **Coordenador Geral:** Supervisiona todos os outros papéis
+- **Coordenador Psicopedagógico, Supervisor Técnico e Educador Social:** Acompanhamento pedagógico.
+- **Educador Social → Educando:**Ministra as aulas.
+- **Educador Social → Educando:**Aplicação de exercícios e avaliações.
 
 ##### Outros atores envolvidos
 
-**SECTI**
-
-**Responsáveis pelos educandos**
+- **SECTI**
+- **Responsáveis pelos educandos**
 
 ##### Ambiente de apoio
 
-**Google Drive** utilizado para o armazenamento e a administração de todos os dados que envolvem esse eixo.
-
-**Planilhas:** utilizados para a análise dos dados da turmas e dos feedbacks dos alunos.
-
-**Google Forms:** utilizado para o preenchimento online dos dados do educando para a matrícula.
-
-**Ambiente Físico:** CRC, onde se encontram os laboratórios nos quais as turmas são ministradas.
-
+- **Google Drive** utilizado para o armazenamento e a administração de todos os dados que envolvem esse eixo.
+- **Planilhas:** utilizados para a análise dos dados da turmas e dos feedbacks dos alunos.
+- **Google Forms:** utilizado para o preenchimento online dos dados do educando para a matrícula.
+- **Ambiente Físico:** CRC, onde se encontram os laboratórios nos quais as turmas são ministradas.
 
 ### Eixo 3 - Campanha Ambiental
 #### Contexto, objetivos, e escopo
