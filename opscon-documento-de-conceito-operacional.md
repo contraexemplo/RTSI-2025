@@ -30,9 +30,57 @@
 #### Políticas operacionais e restrições
 #### Descrição
 #### Modos de operação
-#### Classes de usuário
+#### Classes de usuário 
+As classes de usuário identificadas são:
+Educador Social
+Coordenador Geral
+Coordenador Psicopedgógico
+Supervisor Ténico
+Educando
+Supervisor Administrativo
+Auxiliar Técnico e Logístico
 ##### Estrutura organizacional
+Coordenação Geral
+├── Coordenador Psicopedagógico
+│   └── Educadores Sociais
+│        └── Educandos (Alunos)
+├── Supervisor Técnico
+│   └── Auxiliar Técnico e Logístico
+└── Supervisor Administrativo
 ##### Perfis de classes de usuário
+1. Coordenador Geral
+Responsabilidades: Acompanhar e monitorar a gestão do projeto, seleção de pessoal, supervisão geral das ações, acompanhamento de doações e relatórios.
+
+Atividades no Sistema: Organização e acesso a relatórios, documentos gerenciais e administrativos.
+
+Interação: Acesso completo às pastas e documentos no ambiente compartilhado.
+
+2. Coordenador Psicopedagógico
+Responsabilidades: Elaboração do plano de coordenação pedagógica, coordenação da formação dos educadores sociais, criação de ações socioeducativas e avaliação do processo pedagógico.
+
+3. Supervisor Técnico
+Responsabilidades: Acompanhamento pedagógico, monitoração dos laboratórios, coordenação dos trabalhos técnico e logístico, coordenação do âmbito operacional e controle de estoque.
+
+4. Supervisor Administrativo
+Responsabilidades: Gerenciamento de RH, compras, pagamentos e desenvolvimento das atividades e rotinas do projeto.
+
+5. Educador Social
+Responsabilidades: Acompanhamento pedagógico, ministrar aulas de capacitação, fazer o controle de frequência e avaliações.
+
+Atividades no Sistema: Preenchimento de listas de chamadas, lançamento de exercícios e avaliações, registros de aula.
+
+Interação: Acesso a pastas de lista de chamadas, exercícios e fotos de cada turma.
+
+6. Auxiliar Técnico e Logístico
+Responsabilidades: Coordenação das equipes de suas áreas, fornecimento de materiais, elaboração de dados para relatórios.
+
+Atividades no Sistema: Apoio na produção de relatórios.
+
+Interação: Acesso às pastas.
+
+7. Educando (Aluno)
+Responsabilidades: Participar das aulas, realizar atividades e avaliações, fornecer feedbacks. 
+
 ##### Interações entre classes de usuário
 ##### Outros atores envolvidos
 ##### Ambiente de apoio
