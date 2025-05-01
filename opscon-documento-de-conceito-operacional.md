@@ -26,10 +26,361 @@
 ##### Ambiente de apoio
 
 ### Eixo 2 - Capacitação e Empreendedorismo
-#### Contexto, objetivos, e escopo
-#### Políticas operacionais e restrições
-#### Descrição
-#### Modos de operação
+### Contexto, objetivos, e escopo
+
+###  Contexto
+
+O **Eixo 2**, desenvolvido no **Programa Sukatech**, surge como resposta a dois problemas fundamentais identificados na sociedade goiana:
+
+- A **carência de oportunidades de capacitação** da população de baixa renda em um setor produtivo (tecnologia) com alta demanda por profissionais qualificados.
+- A **dificuldade de acesso a linhas de financiamento ao microempreendedorismo** e a falta de formação profissional continuada para a população de baixa renda.
+
+O sistema atual opera através de um **polo de economia circular e logística reversa**, integrando:
+- Educação tecnológica
+- Suporte ao empreendedorismo
+- Responsabilidade ambiental
+
+
+### Objetivos
+
+O **Eixo 2 do Programa Sukatech** tem como objetivos principais:
+
+- **Capacitação da população** em áreas tecnológicas estratégicas, com meta de emissão de **2.100 certificados** nos cursos do polo de economia circular e logística reversa.
+- **Implementação de uma trilha empreendedora**, culminando na certificação via **PRONATEC**, promovendo:
+  - Conhecimento técnico
+  - Competências empreendedoras
+- **Inclusão digital** de populações específicas como idosos, por meio do **Projeto Idoso Tech**, promovendo a integração digital.
+- **Concessão de créditos sociais** no valor de **5.000,00 reais** para  até **40 participantes** em situação de vulnerabilidade social, totalizando um investimento de **200.000,00 reais** para iniciativas empreendedoras.
+
+
+### Escopo
+
+#### Cursos de Capacitação
+
+| Curso                                                                 | Carga Horária | Vagas Anuais | Alunos por Turma |
+|-----------------------------------------------------------------------|---------------|--------------|------------------|
+| Informática Básica e Empreendedorismo                                 | 45h           | 500          | 20               |
+| Montagem e Manutenção de Computadores e de Celulares e Empreendedorismo | 70h           | 120          | 20               |
+| Eletrônica e Robótica Livre e Empreendedorismo                        | 45h           | 200          | 15               |
+
+
+#### Locais de Operação
+
+- **Sede da Sukatech** – Bairro Floresta, Goiânia
+- **Sukatech Lab** – Senador Canedo
+
+#### Turnos
+
+- **Matutino**, **Vespertino** e **Noturno** (sob demanda)
+
+
+#### Público-Alvo
+
+- População a partir de **12 anos** para cursos regulares
+- Grupos prioritários:
+  - **Mulheres** (60% das vagas)
+  - **Afrodescendentes**
+  - **Pessoas com deficiência**
+  - **Pessoas em situação de vulnerabilidade social**
+
+#### Processos Operacionais
+
+- Sistema de inscrição **presencial e online**
+- Processo seletivo com **critérios de inclusão social**
+- **Monitoramento pedagógico** com:
+  - Diários de classe
+  - Relatórios de atividade
+  - Formulários de avaliação
+- Avaliação **individual e coletiva**
+- **Certificação** ao final dos cursos
+
+
+#### Trilha Empreendedora
+
+- Integração de **conteúdos de empreendedorismo** em todos os cursos
+- Possibilidade de **crédito social** para alunos destacados
+- Incentivo à **formalização como Microempreendedor Individual (MEI)**
+- **Acompanhamento e monitoramento** dos alunos beneficiados pelo crédito social
+
+
+#### Parceria Público-Privada
+
+O sistema atual opera por meio de uma parceria clara entre **SECTI** e a **OSC Programando o Futuro**, com responsabilidades bem definidas. Os **fluxogramas de processos operacionais** abrangem desde a matrícula até:
+- A conclusão do curso
+- A possível concessão de **crédito social**
+
+### Políticas operacionais e restrições
+
+### Políticas Operacionais
+
+As políticas operacionais representam decisões gerenciais predeterminadas que orientam as operações do Programa Sukatech, estabelecendo diretrizes que, embora limitem certas liberdades decisórias, permitem algum grau de discricionariedade em sua aplicação.
+
+#### Políticas de Inclusão Social
+- **Equidade de Gênero**: Manutenção da disparidade positiva de 60% das vagas destinadas ao público feminino e 40% ao masculino
+- **Ações Afirmativas**: Reserva de vagas para afrodescendentes declarados e pessoas com deficiência, em conformidade com a legislação municipal/estadual
+- **Priorização Socioeconômica**: Preferência para candidatos inscritos no Cadastro Único para Programas Sociais (CadÚnico)
+
+#### Políticas de Certificação
+- **Padrão PRONATEC**: Certificados emitidos conforme os padrões estabelecidos pelo Programa Nacional de Acesso ao Ensino Técnico e Emprego
+- **Assinatura Conjunta**: Documentos certificados pela equipe técnica do SukaTech e pela Secretaria de Ciência, Tecnologia e Inovação
+
+#### Políticas de Concessão de Crédito Social
+- **Transparência Avaliativa**: Os critérios de avaliação para concessão do crédito social são públicos e pré-estabelecidos
+- **Distribuição Inclusiva**: Manutenção da disparidade de 60% do crédito social para mulheres
+- **Retorno ao Estado**: Incentivo à formalização como MEI com expectativa de retorno dos recursos financeiros investidos
+
+#### Políticas de Gestão Pedagógica
+- **Avaliação Contínua**: Monitoramento constante do progresso dos alunos através de avaliações individuais e coletivas
+- **Documentação Sistematizada**: Manutenção de diários de classe e relatórios de atividades pedagógicas e avaliativas
+- **Flexibilidade de Turnos**: Oferta de cursos nos períodos matutino, vespertino e, sob demanda, no turno noturno
+
+
+
+### Restrições Operacionais
+
+As restrições operacionais constituem limitações impostas ao funcionamento do sistema, definindo os parâmetros dentro dos quais o Programa Sukatech deve operar.
+
+#### Restrições de Capacidade
+- Limite de **20 alunos** por turma nos cursos de Informática Básica e Montagem/Manutenção
+- Limite de **15 alunos** por turma no curso de Eletrônica e Robótica
+- Teto de **2.100 certificações** ao longo do projeto
+- Máximo de **40 créditos sociais** disponíveis (R$5.000,00 cada)
+
+#### Restrições de Infraestrutura
+- Operação restrita às instalações da **Sede SukaTech** (Bairro Floresta, Goiânia) e **SukaTech Lab** (Senador Canedo)
+- Disponibilidade limitada de equipamentos especializados:
+  - Laboratório de Informática: 20 computadores em rede por sala
+  - Laboratório de Eletrônica: osciloscópio, multímetros, ferros de solda, drones, impressoras 3D
+  - Laboratório de Manutenção: estações de teste, ferramentas específicas para smartphones
+
+#### Restrições de Cronograma
+- Duração fixa de **36 meses** para a oferta completa dos cursos
+- Carga horária predefinida:
+  - 45 horas para Informática Básica e Empreendedorismo
+  - 70 horas para Montagem e Manutenção de Computadores e Celulares
+  - 45 horas para Eletrônica e Robótica
+
+#### Restrições de Elegibilidade
+- **Idade mínima** de 12 anos para cursos regulares
+- **Idade mínima** de 18 anos para recebimento do crédito social
+- Necessidade de **alfabetização** dos participantes
+- Para o crédito social: conclusão integral dos cursos, cadastro no CadÚnico e conclusão/matrícula no Ensino Médio
+
+#### Restrições de Recursos Humanos
+- Dependência de instrutores contratados sob regime jurídico específico
+- Necessidade de equipe técnica especializada para avaliação dos candidatos ao crédito social
+
+#### Restrições Financeiras
+- Orçamento fixo de **200.000,00 reais** para o programa de crédito social
+- Obrigatoriedade de seguir as diretrizes do Fundo Protege para concessão de benefícios
+- Manutenção das turmas de capacitação até o final da vigência contratual, independentemente do atingimento da meta de certificações
+
+### Descrição
+### Ambiente Operacional
+
+O Eixo 2 opera em um ambiente educacional tecnológico caracterizado por:
+
+- **Localização física**: Sede da Sukatech no Bairro Floresta (Goiânia) e Sukatech Lab (Senador Canedo)
+- **Contexto socioeconômico**: Foco em populações de baixa renda com acesso ao CadÚnico
+- **Modelo de operação**: Parceria público-privada entre SECTI e OSC Programando o Futuro
+- **Estrutura organizacional**: Hierarquia definida entre coordenadores, educadores sociais e monitores
+
+### Elementos Principais do Sistema
+
+#### Componentes Estruturais
+- **Cursos de Capacitação Tecnológica**:
+  - Informática Básica e Empreendedorismo
+  - Montagem e Manutenção de Computadores e Celulares
+  - Eletrônica e Robótica Livre
+- **Trilha Empreendedora**
+- **Programa de Crédito Social**
+- **Projeto Idoso Tech**
+
+#### Interconexões entre Elementos
+- Integração dos conteúdos de empreendedorismo em todos os cursos
+- Articulação entre conclusão dos cursos e elegibilidade para crédito social
+- Compartilhamento de infraestrutura e recursos entre as diferentes linhas de capacitação
+
+### Interfaces com Sistemas Externos
+
+- **PRONATEC**: Parceria para certificação e metodologias de qualificação profissional
+- **CadÚnico**: Interface para verificação de elegibilidade socioeconômica dos candidatos
+- **Secretaria de Desenvolvimento Social**: Suporte para o Projeto Idoso Tech
+- **Fundo Protege**: Normativas para concessão do crédito social
+
+### Capacidades e Funções
+
+#### Capacidades Atuais
+- Capacitação de 1.980 alunos por ano nos três cursos oferecidos
+- Certificação de 2.100 alunos ao longo do projeto
+- Concessão de até 40 créditos sociais de R$5.000,00
+- Capacitação de 360 idosos em inclusão digital
+
+#### Funções Principais
+- **Educacional**: Formação técnica em tecnologia
+- **Social**: Inclusão socioeconômica e digital
+- **Empreendedora**: Fomento ao microempreendedorismo
+- **Ambiental**: Integração com economia circular e logística reversa
+
+### Fluxos do Sistema
+
+#### Fluxo de Inscrição e Matrícula
+1. Divulgação das vagas conforme plano de comunicação
+2. Recebimento de inscrições presenciais ou online
+3. Seleção de candidatos conforme critérios predefinidos
+4. Matrícula e início das atividades
+5. Gestão de lista de espera para substituição em caso de evasão
+
+#### Fluxo de Capacitação
+1. Participação nos módulos teóricos e práticos
+2. Avaliação contínua através de instrumentos específicos
+3. Verificação de frequência mínima (75%)
+4. Certificação dos concluintes
+5. Monitoramento pós-curso para alunos beneficiados pelo crédito social
+
+### Custos Operacionais
+
+- Investimento total no programa de crédito social: R$200.000,00
+- Custos de manutenção das instalações físicas
+- Remuneração de instrutores e equipe técnica
+- Aquisição e manutenção de equipamentos para laboratórios
+
+### Fatores de Risco Operacional
+
+- Evasão escolar acima do limite previsto
+- Dificuldade de atendimento às proporções definidas para inclusão social
+- Não formalização dos negócios após concessão do crédito social
+- Obsolescência tecnológica de equipamentos e conteúdos
+
+### Características de Desempenho
+
+- **Capacidade**: 1.980 vagas anuais nos cursos regulares
+- **Volume**: 820 vagas anuais para Informática, 405 para Eletrônica, 540 para Montagem e Manutenção
+- **Frequência**: Turmas regulares nos períodos matutino e vespertino, com opção noturna mediante demanda
+- **Carga de trabalho**: Cursos de 45h e 70h, distribuídos ao longo de 36 meses
+
+### Atributos de Qualidade
+
+- **Disponibilidade**: Oferta contínua de vagas em diferentes turnos
+- **Flexibilidade**: Adaptação a diferentes públicos e necessidades
+- **Interoperabilidade**: Integração com sistemas municipais/estaduais de educação e assistência
+- **Manutenibilidade**: Atualização regular de conteúdos e metodologias
+- **Usabilidade**: Laboratórios equipados e adaptados às necessidades de aprendizagem prática
+
+### Provisões para Segurança e Continuidade
+
+- Procedimentos para segurança física dos alunos e equipamentos
+- Backup de dados de frequência e avaliação
+- Plano de contingência para substituição de equipamentos com defeito
+- Protocolos para manuseio seguro de ferramentas e componentes eletrônicos
+
+### Requisitos Logísticos
+
+- Fornecimento de material didático para os cursos
+- Manutenção preventiva de equipamentos de laboratório
+- Armazenamento seguro de componentes eletrônicos
+- Gestão de estoque de peças para aulas práticas
+- Suporte técnico para os laboratórios de informática e eletrônica
+
+### Modos de Operação
+
+#### Modo de Operação Normal
+
+O Programa Sukatech opera em seu modo normal durante o período letivo regular, com as seguintes características:
+
+- **Horários**: Turnos matutino e vespertino, com noturno sob demanda
+- **Capacidade**: Todos os laboratórios e recursos tecnológicos operando em plena capacidade
+- **Pessoal**: Equipe completa disponível (instrutores, coordenadores, monitores)
+- **Processos**: Todos os fluxos de matrícula, avaliação e certificação em funcionamento normal
+
+#### Modo de Operação em Período de Férias
+
+Durante os períodos de recesso escolar:
+
+- **Funcionamento reduzido**: Apenas atividades administrativas e manutenção preventiva
+- **Equipe mínima**: Pessoal administrativo e técnico de manutenção
+- **Sem aulas**: Interrupção temporária das atividades pedagógicas
+- **Preparação**: Planejamento para o próximo período letivo
+
+#### Modo de Operação Emergencial
+
+Em situações críticas que impossibilitam o funcionamento normal:
+
+- **Ativação**: Protocolos específicos de contingência
+- **Comunicação**: Notificação imediata aos alunos e responsáveis
+- **Alternativas**: Possibilidade de migração para atividades online
+- **Prioridades**: Preservação da segurança dos envolvidos e dos equipamentos
+
+#### Modo de Manutenção
+
+Período destinado à manutenção dos equipamentos e instalações:
+
+- **Suspensão temporária**: Interrupção programada das aulas
+- **Equipe técnica**: Especialistas em manutenção de equipamentos eletrônicos
+- **Atividades**:
+  - Manutenção preventiva e corretiva dos computadores
+  - Atualização de software e sistemas
+  - Reparo ou substituição de componentes danificados
+
+#### Modo de Avaliação Intensiva
+
+Durante períodos de avaliação final ou certificação:
+
+- **Cronograma especial**: Ajuste nos horários para aplicação das avaliações
+- **Recursos adicionais**: Disponibilização extra de monitores e avaliadores
+- **Procedimentos**: Ativação de protocolos de avaliação formal
+- **Documentação**: Centralização do registro de resultados
+
+#### Modo de Capacitação de Instrutores
+
+Destinado ao treinamento e atualização da equipe pedagógica:
+
+- **Suspensão parcial**: Algumas turmas podem ser afetadas temporariamente
+- **Foco em desenvolvimento**: Aprimoramento de metodologias e técnicas
+- **Recursos**: Utilização dos laboratórios para práticas pedagógicas
+
+#### Matriz de Referência Cruzada
+
+| Modo | Instalações | Equipamentos | Pessoal | Alunos | Processos |
+|------|------------|--------------|---------|--------|-----------|
+| Normal | 100% disponível | Operacionais | Completo | Acesso total | Todos ativos |
+| Férias | 50% disponível | Mínimo | Reduzido | Sem acesso | Administrativo |
+| Emergencial | Variável | Parcial | Mínimo | Acesso restrito | Contingência |
+| Manutenção | Bloqueado | Inoperante | Técnico | Sem acesso | Manutenção |
+| Avaliação | 75% disponível | Selecionados | Ampliado | Regulado | Avaliação |
+| Capacitação | 50% disponível | Compartilhados | Treinamento | Reduzido | Formação |
+
+### Transição entre Modos
+
+#### Protocolo de Mudança
+1. Notificação prévia aos stakeholders
+2. Comunicação aos alunos e responsáveis
+3. Ajuste do calendário e cronogramas
+4. Adaptação dos recursos e processos
+5. Monitoramento da transição
+
+#### Responsabilidades
+- **Coordenação**: Autoriza e gerencia as transições de modo
+- **Equipe Técnica**: Implementa as mudanças necessárias
+- **Equipe Pedagógica**: Adapta as atividades educacionais
+- **Suporte Administrativo**: Atualiza registros e documentação
+
+### Impactos por Modo
+
+#### Geográficos
+- Operação concentrada na Sede SukaTech (Goiânia) e SukaTech Lab (Senador Canedo)
+- Em modo emergencial, pode haver redistribuição para locais alternativos
+
+#### Tecnológicos
+- Modo Normal: Plena utilização dos recursos tecnológicos
+- Modo Manutenção: Atualização e melhoria da infraestrutura
+- Modo Emergencial: Acesso remoto prioritário
+
+#### Pedagógicos
+- Continuidade do processo de aprendizagem em todos os modos
+- Adaptações metodológicas conforme necessidade
+- Manutenção dos objetivos de certificação mesmo em situações adversas
+
 #### Classes de usuário
 ##### Estrutura organizacional
 ##### Perfis de classes de usuário
