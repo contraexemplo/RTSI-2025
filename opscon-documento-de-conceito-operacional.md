@@ -38,18 +38,30 @@
 ##### Ambiente de apoio
 
 ### Eixo 3 - Educação Ambiental
-#### Contexto, objetivos, e escopo
 
-Todas as atividades de formação cidadã e ambiental do programa Sukatech são gerenciadas sob a alçada do Eixo 3 - Educação Ambiental. O Eixo 3 abriga duas grandes metas do programa Sukatech: Campanhas de Educação Ambiental (Meta 9) e Capacitação Institucional (Meta 10). Para o cumprimento da Meta 9, o programa organiza três grandes tipos de campanhas de educação ambiental: (a) caravanas de descarte; (b) gincanas nas escolas; (c) exibições ou mostras. Dos três tipos de campanha, apenas (a) e (b) são formalmente documentados pelo Plano de Trabalho. O tipo (c) foi relatado informalmente em uma das reuniões que tivemos com funcionários da organização gestora do programa Sukatech. Essas ações têm como objetivo educar a população geral sobre a importância do descarte correto e responsável de resíduos eletroeletrônicos.
+Todas as atividades de formação cidadã e ambiental do programa Sukatech são gerenciadas sob a alçada do Eixo 3 - Educação Ambiental. O Eixo 3 abriga duas grandes metas do programa Sukatech: Campanhas de Educação Ambiental (Meta 9) e Capacitação Institucional (Meta 8). As ações de Campanha de Educação Ambinetal ações têm como objetivo educar a população geral sobre a importância do descarte correto e responsável de resíduos eletroeletrônicos em uma série de ações de abordagem direta e sensibilização. Para o cumprimento da Meta 9, o programa organiza três grandes modalidades de campanhas de educação ambiental: (a) caravanas de descarte; (b) gincanas nas escolas; (c) exibições ou mostras. Dos três tipos de campanha, apenas (a) e (b) são formalmente documentados pelo Plano de Trabalho. O tipo (c) foi relatado informalmente em uma das reuniões que tivemos com funcionários da Programando o Futuro.
 
-Por outro lado, a Meta 10 visa aumentar o volume de coleta e processamento de lixo eletrônico oriundo da administração pública capacitando gestores de patrimônios de órgãos públicos do Estado de Goiás. Através de um Workshop de Movimentação de Bens, o programa Sukatech busca educar gestores sobre os caminhos processuais para que o patrimônio estatal que chegou ao fim de sua vida útil neste contexto possa ser processado ou redirecionado e firmar parcerias de cooperação continuada.
+A Meta 9 visa aumentar o volume de coleta e processamento de lixo eletrônico oriundo da administração pública capacitando gestores de patrimônios de órgãos públicos do Estado de Goiás. Através de um Workshop de Movimentação de Bens, o programa Sukatech busca educar gestores de patrimônio sobre os caminhos processuais para que o patrimônio estatal que chegou ao fim de sua vida útil, explicando como esses equipamentos podem ser processados pelo programa Sukatech através de ações de desfazimento ou redirecionamento (regidas pelo Eixo 1 - Cadeia Produtiva) de forma continuada através de parcerias com órgãos públicos. O Eixo 3 se estabelece, portanto, como uma das portas de entrada para o início do fluxo de desfazimento do Eixo 1.
 
-#### Políticas operacionais e restrições
+O Plano de Trabalho 2024-2026 estabelece a realização de, no mínino, 6 campanhas de educação ambiental durante a sua regência. Há uma sugestão de priorização de municípios de acordo com a sua expressividade populacional no estado: Goiânia, Aparecida de Goiânia, Anápolis, Rio Verde, Águas Lindas de Goiás, Luziânia, Valparaíso e Senador Canedo. No entanto, municípios que não foram citados podem requisitar a visita de campanhas do programa Sukatech através de uma solicitação de parceria pelas suas prefeituras. Uma equipe itinerante cria um Ponto de Entrega Voluntária (PEV) temporário em uma região da cidade onde a população pode direcionar todos o seu lixo eletrônico. Essa ação, portanto, também é uma das portas de entrada para o início do fluxo de campanha do Eixo 1.
 
-- Mínimo de 6 campanhas de educação ambiental durante a regência do Plano de Trabalho;
-- Gincanas nas Escolas acontecerão em até 30 escolas e o seu roteiro será construído pela SECTI em parceria com a SEDUC;
-- Gincanas nas Escolas acontecem por um período aproximado de 30 dias e envolvem uma diversidade de atividades educativas;
-- Gincanas nas Escolas monitoram as 5 escolas que mais coletaram lixo eletrônico.
+As gincanas nas escolas deverão acontecer em até 30 escolas do estado. O roteiro de atividades pedagógicas é construído pela Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) em parceria com a Secretaria de Estado de Educação (SEDUC). As gincanas englobam a realização de palestras sobre a importância do lixo eletrônico e a aplicação de atividades lúdicas e interdisciplinares, adaptadas a cada faixa etária. Essa ação também é uma das portas de entrada para o início do fluxo de campanha do Eixo 1, uma vez que é realizada a coleta de lixo eletrônico entre turmas das escolas. Há um incentivo de premiação para turmas ou escolas que recolherem a maior quantidade de resíduos, atribuindo-se pontuação específica para cada tipo de lixo eletrônico recolhido. Embora o Plano de Trabalho 2024-2026 sugira uma premiação em computadores ou outros aparelhos recondicionados, encontramos relatos de premiação com pizza ou passeios.
+
+### Instituições envolvidas
+- Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI)
+- Secretaria de Estado de Educação (SEDUC)
+- Programando o Futuro (na figura operacional do programa Sukatech)
+- Prefeituras de municípios goianos
+- Escolas de municípios goianos
+
+### Personas
+- **Coordenador da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI):** Estrutura e coordena ações institucionais. Ponte entre o Programa Sukatech e a SEDUC.
+- **Coordenador da Secretaria de Estado de Educação (SEDUC):** Estrutura ações pedagógicas interdisciplinares e adaptáveis para diversas faixas de idade.
+- **Coordenador de Eventos do Programa Sukatech:** Coordena e gerencia todas as campanhas realizadas pelo Programa Sukatech. Organiza a Agenda de Eventos. Preenche a planilha de prestação de contas.
+- **Representante da Prefeitura:** Solicita e facilita parcerias com o Programa Sukatech em nível municipal.
+- **Representante da Escola:** Solicita e facilita parcerias com o Programa Sukatech em nível de escola.
+- **Educador:** Atua em campanhas como a ponte entre educação ambiental e educandos. Coordena atividades educativas, faz ou facilita palestras e rodas de discussão.
+- **Educando:** Participa de atividades educativas. Pode ser um estudante, um gestor de patrimônio, ou um morador de um município participante de uma campanha.
 
 #### Descrição
 #### Modos de operação
