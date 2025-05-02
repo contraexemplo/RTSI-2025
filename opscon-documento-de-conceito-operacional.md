@@ -91,7 +91,7 @@ As gincanas englobam a realização de palestras sobre a importância do lixo el
 - Número de instituições beneficiadas;
 - Número de pessoas atendidas;
 - Número de cidades atendidas.
-- 
+
 ##### Fontes
 - Agenda de Eventos.
 
