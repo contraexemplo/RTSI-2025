@@ -61,7 +61,10 @@ As gincanas nas escolas deverão acontecer em até 30 escolas do estado. O rotei
 - **Representante da Prefeitura:** Solicita e facilita parcerias com o Programa Sukatech em nível municipal.
 - **Representante da Escola:** Solicita e facilita parcerias com o Programa Sukatech em nível de escola.
 - **Educador:** Atua em campanhas como a ponte entre educação ambiental e educandos. Coordena atividades educativas, faz ou facilita palestras e rodas de discussão.
-- **Educando:** Participa de atividades educativas. Pode ser um estudante, um gestor de patrimônio, ou um morador de um município participante de uma campanha.
+- **Educando:** Participa de atividades educativas. Subcategorias:
+  - **Estudante:** Participante de gincanas nas escolas.
+  - **Gestor de patrimônio:** Participante de Workshop de Movimentação de Bens e/ou outras ações educativas.
+  - **População geral:** Participante de caravanas de descarte e/ou outras ações educativas.
 
 #### Descrição
 #### Modos de operação
