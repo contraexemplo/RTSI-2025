@@ -48,11 +48,11 @@ O Plano de Trabalho 2024-2026 estabelece a realização de, no mínino, 6 campan
 As gincanas nas escolas deverão acontecer em até 30 escolas do estado. O roteiro de atividades pedagógicas é construído pela Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) em parceria com a Secretaria de Estado de Educação (SEDUC). As gincanas englobam a realização de palestras sobre a importância do lixo eletrônico e a aplicação de atividades lúdicas e interdisciplinares, adaptadas a cada faixa etária. Essa ação também é uma das portas de entrada para o início do fluxo de campanha do Eixo 1, uma vez que é realizada a coleta de lixo eletrônico entre turmas das escolas. Há um incentivo de premiação para turmas ou escolas que recolherem a maior quantidade de resíduos, atribuindo-se pontuação específica para cada tipo de lixo eletrônico recolhido. Embora o Plano de Trabalho 2024-2026 sugira uma premiação em computadores ou outros aparelhos recondicionados, encontramos relatos de premiação com pizza ou passeios.
 
 ### Instituições envolvidas
-- Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI)
-- Secretaria de Estado de Educação (SEDUC)
-- Programando o Futuro (na figura operacional do programa Sukatech)
-- Prefeituras de municípios goianos
-- Escolas de municípios goianos
+- Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI);
+- Secretaria de Estado de Educação (SEDUC);
+- Programando o Futuro (na figura operacional do programa Sukatech);
+- Prefeituras de municípios goianos;
+- Escolas de municípios goianos.
 
 ### Personas
 - **Coordenador da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI):** Estrutura e coordena ações institucionais. Ponte entre o Programa Sukatech e a SEDUC.
@@ -66,14 +66,9 @@ As gincanas nas escolas deverão acontecer em até 30 escolas do estado. O rotei
   - **Gestor de patrimônio:** Participante de Workshop de Movimentação de Bens e/ou outras ações educativas.
   - **População geral:** Participante de caravanas de descarte e/ou outras ações educativas.
 
-#### Descrição
-#### Modos de operação
-#### Classes de usuário
-##### Estrutura organizacional
-##### Perfis de classes de usuário
-##### Interações entre classes de usuário
-##### Outros atores envolvidos
-##### Ambiente de apoio
+### Processos
+
+### Indicadores e fontes
 
 ### Eixo Transversal - Avaliação
 #### Contexto, objetivos, e escopo
