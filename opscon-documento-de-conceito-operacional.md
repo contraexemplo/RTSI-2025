@@ -85,11 +85,13 @@ As gincanas englobam a realização de palestras sobre a importância do lixo el
 1. Realização de no mínimo 6 ações de conscientização ambiental;
 2. Realização de Gincanas Educacionais em pelo menos 30 escolas;
 3. Realização das Caravanas do Descarte.
+
 ##### Indicadores
 - Número de eventos realizados;
 - Número de instituições beneficiadas;
 - Número de pessoas atendidas;
 - Número de cidades atendidas.
+- 
 ##### Fontes
 - Agenda de Eventos.
 
@@ -101,7 +103,7 @@ As gincanas englobam a realização de palestras sobre a importância do lixo el
 - Número de workshops realizados;
 - Número de órgãos participantes;
 - Número de parcerias firmadas.
-- 
+
 ##### Fontes
 - Agenda de Eventos.
 
