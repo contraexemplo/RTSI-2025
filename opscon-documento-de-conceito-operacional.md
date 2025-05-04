@@ -1,16 +1,42 @@
-# Documento de Conceito Operacional (OpsCon): Sukatech
+# Documento de Conceito Operacional (OpsCon): Programa Sukatech
 
 ## Prefácio
 
+Este documento consolida as observações sobre o programa Sukatech do Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação. Responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar o sistema e algumas das problemáticas enfrentadas pelo programa Sukatech a partir de uma perspectiva de Sistemas de Informação.
+
 ## Escopo
+
+Provocados a analisar o programa Sukatech a partir de uma perspectiva de dados, indicadores e métricas, identificamos dois principais campos de problemáticas no que denominamos as "duas pontas" do programa:
+
+1. Campo de coleta, guarda, e gerência de dados do programa Sukatech — o "nascimento" dos dados a um nível operacional;
+2. Campo de consolidação, trânsito, e análise de dados do programa Sukatech — o destino final dos dados a um nível gerencial e estratégico.
+
+Descrevemos, então, o programa Sukatech em termos mais processuais do que diminutivamente em termos de sistemas de software que o englobam.
 
 ### Identificação
 
 ### Visão geral do documento
 
+Para fins de especificação da solução, descrevemos o sistema de informação que permeia e espelha a operacionalização do programa Sukatech a partir de duas perspectivas: _as is_ (representando o retrato atual do programa Sukatech, consolidando definições formais e observações práticas) e _to be_ (representando um projeto idealizado do programa Sukatech — aquilo que o programa almeja ser).
+
+A perspectiva _as is_ captura descrições dos quatro eixos de operação do programa:
+- Eixo 1 - Cadeia Produtiva;
+- Eixo 2 - Capacitação e Empreendedorismo;
+- Eixo 3 - Educação Ambiental;
+- Eixo Transversal - Avaliação.
+
+A perspectiva _to be_ se concentra em construir uma especificação para o aprimoramento do Eixo Tranversal - Avaliação a partir de uma perspectiva sistêmica, apoiada pela compreensão contextual de todos os pilares do programa Sukatech explorados pela perspectiva _as is_.
+
 ### Visão geral do sistema
 
 ## Referência documental
+
+Usamos como referência os seguintes documentos:
+- Relatório da visita técnica do Squad 2 à sede do programa Sukatech no Bairro Floresta, realizada no dia 27 de março de 2025;
+- Edital de Chamamento Público nº 01/2020-SEDI, publicado em 27 de novembro de 2020;
+- Plano de Trabalho do Programa Sukatech 2024-2026, fornecido por Thiago Angelino em 28 de março de 2025;
+- Planilha de consolidação de dados históricos do programa Sukatech, fornecida por Thiago Angelino em 28 de março de 2025;
+- Relatórios de discussões do Squad 2 com partes interessadas do programa Sukatech, realizada nos dias 07 e 08 de abril de 2025.
 
 ## Sistema atual—*as is*
 ### Eixo 1 - Cadeia Produtiva
@@ -155,12 +181,10 @@ A SECTI também é provocada a fornecer relatórios respondendo a perguntas com 
 
 #### Modos de operação
 ##### Consolidação, trânsito e processamento de dados
+![Diagrama BPMN descrevendo o caminho da consolidação, trânsito, e processamento de dados.](/BPMNs/BPMN_-_Eixo_Transversal_-_Consolidação_e_Trânsito_de_Dados.png)
 
 #### Objetivos específicos, indicadores e fontes
 ##### Meta 10 - Aperfeiçoamento do processo de Avaliação do Programa
-###### Objetivo gerai
-Elaboração de ferramentas intuitivas de avaliação.
-
 ###### Objetivos específicos
 - **M10OE1:** Aperfeiçoamento da ferramenta de gestão utilizada pela Programando o Futuro, implementando:
   - **M10OE1.1:** Acesso em tempo real aos dados de entrada, desmanufatura e recondicionamento;
