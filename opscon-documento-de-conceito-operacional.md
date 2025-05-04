@@ -93,6 +93,7 @@ A SECTI também é provocada a fornecer relatórios respondendo a perguntas com 
 - **Coordenador da SECTI:** Monitora da planilha compartilhada. Analisa dados consolidados para criar relatórios.
 
 #### Modos de operação
+##### Consolidação, trânsito e processamento de dados
 
 #### Objetivos específicos, indicadores e fontes
 ##### Meta 10 - Aperfeiçoamento do processo de Avaliação do Programa
