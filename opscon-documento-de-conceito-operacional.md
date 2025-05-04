@@ -74,13 +74,13 @@ Para a Meta 9, o Plano de Trabalho 2024-2026 estabelece uma frequência de um wo
 
 #### Modos de operação
 ##### Gincanas nas Escolas
-![Diagrama BPMN descrevendo o caminho de realização de Gincanas nas Escolas.](/BPMNs/BPMN%20-%20Eixo%203%20-%20Gincana%20nas%20Escolas.png)
+![Diagrama BPMN descrevendo o caminho de realização de Gincanas nas Escolas.](/BPMNs/BPMN_-_Eixo_3_-_Gincana_nas_Escolas.png)
 
 ##### Caravanas de Descarte
-![Diagrama BPMN descrevendo o caminho de realização de Caravanas de Descarte.](/BPMNs/BPMN%20-%20Eixo%203%20-%20Caravanas%20de%20Descarte.png)
+![Diagrama BPMN descrevendo o caminho de realização de Caravanas de Descarte.](/BPMNs/BPMN_-_Eixo_3_-_Caravanas_de_Descarte.png)
 
 ##### Capacitação Institucional
-![Diagrama BPMN descrevendo o caminho de realização de Capacitação Institucional.](/BPMNs/BPMN%20-%20Eixo%203%20-%20Capacitação%20Institucional.png)
+![Diagrama BPMN descrevendo o caminho de realização de Capacitação Institucional.](/BPMNs/BPMN_-_Eixo_3_-_Capacitação_Institucional.png)
 
 #### Objetivos específicos, indicadores e fontes
 ##### Meta 8 - Campanhas Educacionais
