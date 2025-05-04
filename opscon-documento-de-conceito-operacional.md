@@ -17,15 +17,24 @@
 
 #### Contexto, objetivos, e escopo
 
-O Eixo 1 do programa Sukatech - Cadeia Produtiva - visa estruturar a **logística reversa de resíduos eletroeletrônicos (REEE)** no Estado de Goiás, com foco na administração pública, mas incluindo também a sociedade civil e setor privado. A operação ocorre por meio de uma rede de Centros de Recondicionamento de Computadores (CRCs) e polos descentralizados denominados SukaTech Labs, que recebem resíduos originados de desfazimentos institucionais, doações da sociedade civil, campanhas de arrecadação e Pontos de Entrega Voluntária (PEVs). 
-O principal objetivo deste eixo é estruturar e operacionalizar a logística reversa de equipamentos eletroeletrônicos, priorizando a triagem, recondicionamento, redistribuição para inclusão digital e o descarte ambientalmente adequado de materiais não aproveitáveis. A proposta busca, ainda, gerar oportunidades de capacitação profissional, inclusão socioeconômica e inovação tecnológica.
-O escopo abrange:
-- Recebimento de equipamentos via doações, campanhas, desfazimentos e PEVs.
-- Triagem e classificação dos resíduos conforme estado e viabilidade de reuso.
-- Recondicionamento e redistribuição dos equipamentos.
-- Encaminhamento de rejeitos para empresas recicladoras parceiras.
-- Registro e monitoramento de lotes e indicadores de desempenho.
-- Monetização de REEE
+
+O **Eixo 1 do programa Sukatech – Cadeia Produtiva** visa estruturar a **logística reversa de resíduos eletroeletrônicos (REEE)** no Estado de Goiás, com foco prioritário na administração pública, mas incluindo também a sociedade civil e o setor privado. A operação é viabilizada por meio de uma rede de **Centros de Recondicionamento de Computadores (CRCs)** e **polos descentralizados**, denominados **SukaTech Labs**, que recebem resíduos provenientes de **desfazimentos institucionais, doações da sociedade civil, campanhas de arrecadação e Pontos de Entrega Voluntária (PEVs)**.
+
+O principal objetivo deste eixo é **estruturar e operacionalizar a logística reversa de equipamentos eletroeletrônicos**, priorizando a **triagem, recondicionamento, redistribuição para inclusão digital** e o **descarte ambientalmente adequado** dos materiais não aproveitáveis. A proposta também busca fomentar a **capacitação profissional**, a **inclusão socioeconômica** e o **desenvolvimento de soluções tecnológicas inovadoras** no contexto da economia circular — **tendo como principais metas estabelecidas**:
+
+- O **recebimento e processamento mínimo de 250 toneladas de REEE por ano**;
+- O **recondicionamento e redistribuição de pelo menos 2000 computadores funcionais**;
+- A **correta destinação de 100% dos resíduos não aproveitáveis a recicladoras certificadas**;
+- A **ampliação da rede de CRCs e SukaTech Labs para ao menos cinco unidades**;
+- E a **geração de receita por meio da comercialização de resíduos recicláveis**, contribuindo com a sustentabilidade financeira do programa.
+
+### Escopo do Eixo 1
+- Recebimento de equipamentos via doações, campanhas, desfazimentos e PEVs;
+- Triagem e classificação dos resíduos conforme estado e viabilidade de reuso;
+- Recondicionamento e redistribuição dos equipamentos a instituições públicas e projetos de inclusão digital;
+- Encaminhamento de rejeitos para empresas recicladoras parceiras licenciadas;
+- Registro e rastreamento de lotes e componentes reutilizáveis por meio de planilhas e sistemas de monitoramento;
+- Monetização de materiais recicláveis como plástico e metais para garantir a sustentabilidade do programa.
 
 #### Políticas operacionais e restrições
 
@@ -49,9 +58,19 @@ Os resíduos não aproveitáveis são **destinados a empresas ou cooperativas de
 
 #### Modos de operação
 
-- **Operação Regular:** Funcionamento padrão com entrada contínua de materiais, triagem, manutenção e redistribuição.
-- **Operação de Campanha:** Períodos específicos com alto volume de recebimentos, demandando adaptação de fluxos e maior esforço logístico.
-- **Emergencial** Paralisação por falta de insumos ou manutenção.
+A operação do Eixo 1 pode ocorrer sob diferentes condições, que impactam diretamente os fluxos operacionais e a gestão logística dos resíduos eletroeletrônicos. Os modos são:
+
+- **Operação Regular**: Funcionamento padrão, com entrada contínua de materiais provenientes de desfazimentos, doações, e PEVs. Inclui atividades rotineiras de triagem, manutenção, recondicionamento e redistribuição.
+
+- **Operação de Campanha**: Ocasiões pontuais (como campanhas de arrecadação), exigindo adaptação temporária de fluxos, reforço de equipe, espaço e transporte.
+
+A seguir, são apresentados os **principais fluxos operacionais** que ocorrem nos diferentes modos de operação, destacando variações de entrada, decisões críticas e saídas conforme o tipo de resíduo e sua condição:
+
+- **Fluxo de Recebimento por Desfazimento Institucional**
+![Fluxo de Desfazimento](https://raw.githubusercontent.com/contraexemplo/RTSI-2025/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_3_-_Desfazimento_Coleta.svg)
+- **Fluxo de Triagem e Classificação**
+![Fluxo de Triagem](https://raw.githubusercontent.com/contraexemplo/RTSI-2025/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_3_-_Triagem_Recondicionamento_Desmanufatura.svg)
+
 
 #### Classes de usuário
 
