@@ -80,6 +80,8 @@ Trimestralmente, a Programando o Futuro entrega um relatório à SECTI contendo:
 10. Relatório descritivo das campanhas com detalhamento dos quantitativos arrecadados, número de pessoas envolvidas, impactos gerados;
 11. Relatório descritivo das atividades envolvendo as gincanas, com detalhamento do material pedagógico utilizado, detalhamento das ações desenvolvidas, detalhamento dos membros da comunidade escolar envolvidos na ação.
 
+A SECTI também é provocada a fornecer relatórios respondendo a perguntas com recortes específicos (e.g. "Como o programa Sukatech impacta mulheres goianas?") em um curto prazo. Essas análises são realizadas empregando técnicas de filtros de campos específicos (e.g. sexo de discentes) e conhecimento organizacional.
+
 #### Partes envolvidas
 ##### Instituições
 - Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI);
@@ -89,6 +91,42 @@ Trimestralmente, a Programando o Futuro entrega um relatório à SECTI contendo:
 - **Coordenador de eixo:** Consolida dados mensais do eixo.
 - **Consolidador de dados:** Realiza a checagem, limpeza e consolidação dos dados fornecidos pelo coordenador de eixo. Analisa dados consolidados para criar relatórios.
 - **Coordenador da SECTI:** Monitora da planilha compartilhada. Analisa dados consolidados para criar relatórios.
+
+#### Modos de operação
+
+#### Objetivos específicos, indicadores e fontes
+##### Meta 10 - Aperfeiçoamento do processo de Avaliação do Programa
+###### Objetivo gerai
+Elaboração de ferramentas intuitivas de avaliação.
+
+###### Objetivos específicos
+- **M10OE1:** Aperfeiçoamento da ferramenta de gestão utilizada pela Programando o Futuro, implementando:
+  - **M10OE1.1:** Acesso em tempo real aos dados de entrada, desmanufatura e recondicionamento;
+  - **M10OE1.2:** Preenchimento de processos SEI de desfazimento por servidores da SECTI;
+  - **M10OE1.2:** Área de autopreenchimento de solicitações de entidades do terceiro setor para aquisição de material recondicionado.
+- **M10OE2:** Criação de planilha de gestão centralizada de Gestão Educacional, monitorando:
+  - Inscrição de alunos;
+  - Alunos matriculados (e os respectivos documentos pessoais);
+  - Alunos desistentes;
+  - Alunos aprovados;
+  - Diário de classe;
+  - Plano de curso;
+  - Documentos pessoais de professores.
+- **M10OE3:** Criação do formulário online de avaliação socioeconômica a ser aplicado no primeiro dia de aula em sala, desenvolvido de acordo com critérios do Goiás Fomento.
+- **M10OE4:** Criação da planilha centralizada de Educação Ambiental.
+- **M10OE5:** Desenvolvimento de metodologia de avaliação de impacto socioambiental.
+  - **M10OE5.1:** Avaliação de indicadores de coleta, tratamento e redesignação de resíduos e materiais eletroeletrônicos e plástico (avaliação de impactos ambientais);
+  - **M10OE5.2:** Avaliação de indicadores educacionais (avaliação de impactos sociais diretos e indiretos);
+  - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
+- **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
+
+###### Indicadores
+
+Não encontramos indicadores de avaliação da implementação da Meta 10 definidos pelo Plano de Trabalho 2024-2026.
+
+###### Fontes
+
+Não encontramos fontes para os indicadores de avaliação da implementação da Meta 10, uma vez que não encontramos indicadores definidos pelo Plano de Trabalho 2024-2026.
 
 ## Justificativa para mudanças
 ### Mudanças desejadas
