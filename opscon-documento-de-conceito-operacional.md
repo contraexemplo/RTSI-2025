@@ -67,9 +67,9 @@ A operação do Eixo 1 pode ocorrer sob diferentes condições, que impactam dir
 A seguir, são apresentados os **principais fluxos operacionais** que ocorrem nos diferentes modos de operação, destacando variações de entrada, decisões críticas e saídas conforme o tipo de resíduo e sua condição:
 
 - **Fluxo de Recebimento por Desfazimento Institucional**
-![Fluxo de Desfazimento](https://raw.githubusercontent.com/contraexemplo/RTSI-2025/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_3_-_Desfazimento_Coleta.svg)
+![Fluxo de Desfazimento](https://github.com/contraexemplo/RTSI-2025/blob/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_1_-_Desfazimento_Coleta.svg)
 - **Fluxo de Triagem e Classificação**
-![Fluxo de Triagem](https://raw.githubusercontent.com/contraexemplo/RTSI-2025/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_3_-_Triagem_Recondicionamento_Desmanufatura.svg)
+![Fluxo de Triagem](https://github.com/contraexemplo/RTSI-2025/blob/feature/eixo1-especificacoes/processos/BPMN_-_Eixo_1_-_Triagem_Recondicionamento_Desmanufatura.svg)
 
 
 #### Classes de usuário
