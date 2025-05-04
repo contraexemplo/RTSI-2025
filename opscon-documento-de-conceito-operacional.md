@@ -133,6 +133,131 @@ A seguir, são apresentados os **principais fluxos operacionais** que ocorrem no
 - **Meios de transporte:** veículos para coleta e redistribuição de equipamentos.
 - **Documentos de apoio:** termo de doação, termo de renúncia e termo de responsabilidade.
 
+### Objetivos específicos, indicadores e fontes
+
+## Meta 1 - Adequação e estruturação do Centro de Recondicionamento de Computadores (CRC)
+
+### Objetivo Geral
+
+Reestruturação física da Unidade CRC - polo de economia circular com os requisitos mínimos indispensáveis para o beneficiamento de 750 toneladas (250 t/ano) de resíduos eletroeletrônicos durante o período de execução do projeto.
+
+### Objetivos específicos
+
+M1OE1: Adequação de mobiliário
+M1OE2: Manutenção
+
+### Indicadores
+
+* Reforma realizada
+* Equipamentos adquiridos
+* Expansão da capacidade de processamento de resíduos
+
+### Fonte
+
+Programando o Futuro
+
+## Meta 2 – Estruturação dos polos descentralizados de economia circular (SukaTech Labs)
+
+### Objetivo Geral
+
+Estruturação física de 5 polos descentralizados de economia circular para o beneficiamento de resíduos eletroeletrônicos durante o período de execução do projeto.
+
+### Objetivos específicos
+
+M2OE1: Identificar possíveis cidades parceiras com base em critérios como desejo do município, existência de coleta seletiva, contingente populacional e localização na Região Metropolitana de Goiânia ou entorno do DF
+M2OE2: Criar "enxoval" para os municípios (minuta de Lei, Convênio, Plano de trabalho, artes de divulgação)
+M2OE3: Assinar Termo de Cooperação com responsabilidades entre Prefeitura, Programando o Futuro e Gestão SukaTech
+
+### Indicadores
+
+* Número de parcerias realizadas
+* Número de SukaTech Labs implantados
+* Alunos formados
+* Resíduos coletados no interior
+
+### Fonte
+
+SECTI e Programando o Futuro
+
+## Meta 3 – Coleta, Recondicionamento e Redistribuição de Computadores
+
+### Objetivo Geral
+
+Expandir a coleta, recondicionamento e redistribuição de equipamentos eletroeletrônicos oriundos da administração pública, sociedade civil e setor privado.
+
+### Objetivos específicos
+
+M3OE1: Criação de cadeia logística eficiente:
+
+* M3OE1.1: Distribuição de PEVs em órgãos públicos
+* M3OE1.2: Recolhimento e logística dos bens
+* M3OE1.3: Entrega à estação de metarreciclagem
+
+M3OE2: Criação de Software Centralizado de Gestão
+M3OE3: Criação de Plataforma Digital de Descarte
+
+* M3OE3.1: Construção de plano de economia para parcerias
+
+M3OE4: Desenhar e publicar política de doação com link e formulário no site
+
+### Indicadores
+
+* Toneladas de material coletado
+* Número de PEVs instalados
+* Número de computadores recondicionados
+* Número de entidades beneficiadas
+* Número de alunos e beneficiários
+
+### Fonte
+
+SECTI e Programando o Futuro
+
+## Meta 4 - Tratamento dos Polímeros Plásticos
+
+### Objetivo Geral
+
+Coletar, processar e redirecionar o termoplástico, promovendo o reaproveitamento e a valorização dos resíduos plásticos.
+
+### Objetivos específicos
+
+M4OE1: Implantação da linha de processamento dos resíduos plásticos
+M4OE2: Processamento e triagem dos plásticos
+M4OE3: Destinação adequada dos termoplásticos
+
+### Indicadores
+
+* Toneladas de plástico coletado
+* Toneladas de plástico processado
+* Toneladas de plástico redirecionado
+
+### Fonte
+
+Programando o Futuro
+
+
+## Meta 5 - Monetização dos resíduos recicláveis
+
+### Objetivo Geral
+
+Reverter ao programa os recursos financeiros obtidos com a venda dos materiais não passíveis de recondicionamento.
+
+### Objetivos específicos
+
+M5OE1: Criar política de retorno financeiro até 2024
+M5OE2: Criar modelo de prestação de contas
+M5OE3: Criar plano de investimento a partir do valor arrecadado
+
+### Indicadores
+
+* Política criada
+* Toneladas de material vendido
+* Valor arrecadado e retornado ao programa
+
+### Fonte
+
+Programando o Futuro
+
+
 ### Eixo 2 - Capacitação e Empreendedorismo
 #### Contexto, objetivos, e escopo
 #### Políticas operacionais e restrições
