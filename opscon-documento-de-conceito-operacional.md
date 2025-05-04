@@ -85,9 +85,9 @@ Para a Meta 9, o Plano de Trabalho 2024-2026 estabelece uma frequência de um wo
 #### Objetivos específicos, indicadores e fontes
 ##### Meta 8 - Campanhas Educacionais
 ###### Objetivos específicos
-1. Realização de no mínimo 6 ações de conscientização ambiental;
-2. Realização de Gincanas Educacionais em pelo menos 30 escolas;
-3. Realização das Caravanas do Descarte.
+- **M08OE1:** Realização de no mínimo 6 ações de conscientização ambiental;
+- **M08OE2:** Realização de gincanas educacionais em pelo menos 30 escolas;
+- **M08OE3:** Realização das caravanas do descarte.
 
 ###### Indicadores
 - Número de eventos realizados;
@@ -100,7 +100,7 @@ Para a Meta 9, o Plano de Trabalho 2024-2026 estabelece uma frequência de um wo
 
 ##### Meta 9 - Capacitação Institucional
 ###### Objetivos específicos
-1. Capacitação dos Gestores de Patrimônio de Órgãos Públicos em relação à destinação de resíduos eletrônicos.
+- **M09OE1:** Capacitação dos gestores de patrimônio de órgãos públicos em relação à destinação de resíduos eletrônicos.
 
 ###### Indicadores
 - Número de workshops realizados;
