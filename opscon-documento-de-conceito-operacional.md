@@ -2,7 +2,11 @@
 
 ## Prefácio
 
-Este documento consolida as observações sobre o programa Sukatech do Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação. Responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar o sistema e algumas das problemáticas enfrentadas pelo programa Sukatech a partir de uma perspectiva de Sistemas de Informação.
+O Programa de Recondicionamento de Equipamentos Eletroeletrônicos - Sukatech foi instituído pelo Decreto Estadual nº 9.718, de 24 de setembro de 2020 e é administrado Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI). Sobre as suas designações, podemos afirmar que:
+
+> O SukaTech tem a finalidade de apoiar o descarte correto e sustentável de equipamentos, materiais e bens de informática da administração pública estadual e do setor privado. Atuando na construção da logística reversa e economia circular do setor eletroeletrônico, ao passo em que recicla e recondiciona estes resíduos. Além de animar a cadeia produtiva do segmento, o programa ainda capacita a população em tecnologia, promovendo conscientização social a respeito do descarte correto destes materiais, bem como a habilitação dos mesmos para atuarem neste setor (Plano de Trabalho Programa Sukatech, 2023, p. 2).
+
+Este documento consolida as observações sobre o programa Sukatech do Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação. Responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar o sistema e algumas das problemáticas enfrentadas pelo programa Sukatech em 2025 a partir de uma perspectiva de Sistemas de Informação.
 
 ## Escopo
 
@@ -13,13 +17,10 @@ Provocados a analisar o programa Sukatech a partir de uma perspectiva de dados, 
 
 Descrevemos, então, o programa Sukatech em termos mais processuais do que diminutivamente em termos de sistemas de software que o englobam.
 
-### Identificação
-
-### Visão geral do documento
-
+### Visão geral
 Para fins de especificação da solução, descrevemos o sistema de informação que permeia e espelha a operacionalização do programa Sukatech a partir de duas perspectivas: _as is_ (representando o retrato atual do programa Sukatech, consolidando definições formais e observações práticas) e _to be_ (representando um projeto idealizado do programa Sukatech — aquilo que o programa almeja ser).
 
-A perspectiva _as is_ captura descrições dos quatro eixos de operação do programa:
+A perspectiva _as is_ captura descrições dos quatro eixos de operação e gerência do programa:
 - Eixo 1 - Cadeia Produtiva;
 - Eixo 2 - Capacitação e Empreendedorismo;
 - Eixo 3 - Educação Ambiental;
@@ -27,14 +28,12 @@ A perspectiva _as is_ captura descrições dos quatro eixos de operação do pro
 
 A perspectiva _to be_ se concentra em construir uma especificação para o aprimoramento do Eixo Tranversal - Avaliação a partir de uma perspectiva sistêmica, apoiada pela compreensão contextual de todos os pilares do programa Sukatech explorados pela perspectiva _as is_.
 
-### Visão geral do sistema
+## Documentos de referência
 
-## Referência documental
-
-Usamos como referência os seguintes documentos:
+Usamos como referência os seguintes documentos do programa:
 - Relatório da visita técnica do Squad 2 à sede do programa Sukatech no Bairro Floresta, realizada no dia 27 de março de 2025;
 - Edital de Chamamento Público nº 01/2020-SEDI, publicado em 27 de novembro de 2020;
-- Plano de Trabalho do Programa Sukatech 2024-2026, fornecido por Thiago Angelino em 28 de março de 2025;
+- Plano de Trabalho 2024-2026 do Programa Sukatech, fornecido por Thiago Angelino em 28 de março de 2025;
 - Planilha de consolidação de dados históricos do programa Sukatech, fornecida por Thiago Angelino em 28 de março de 2025;
 - Relatórios de discussões do Squad 2 com partes interessadas do programa Sukatech, realizada nos dias 07 e 08 de abril de 2025.
 
@@ -247,5 +246,5 @@ Não encontramos fontes para os indicadores de avaliação da implementação da
 |    Versão |  Publicação           | Comentários |
 |-----------|-----------------------|-------------|
 |     1.1   | 28 de abril de 2025   | Expansão de seções. Separação explícita entre sistema *as is* e sistema *to be*. |
-|           |                       |             |
+|     1.2   | 04 de maio de 2025    | Adicionamos uma descrição do Eixo 3 e Eixo Transversal. |
 |           |                       |             |
