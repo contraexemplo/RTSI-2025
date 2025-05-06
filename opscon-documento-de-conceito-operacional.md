@@ -30,85 +30,144 @@
 
 ###  Contexto
 
-O **Eixo 2**, desenvolvido no **Programa Sukatech**, surge como resposta a dois problemas fundamentais identificados na sociedade goiana:
+O **Eixo 2**, desenvolvido no **Programa Sukatech**, surge como resposta a dois problemas fundamentais identificados na sociedade goiana:  
 
-- A **carência de oportunidades de capacitação** da população de baixa renda em um setor produtivo (tecnologia) com alta demanda por profissionais qualificados.
-- A **dificuldade de acesso a linhas de financiamento ao microempreendedorismo** e a falta de formação profissional continuada para a população de baixa renda.
+- A **carência de oportunidades de capacitação** da população de baixa renda em um setor produtivo (tecnologia) com alta demanda por profissionais qualificados. 
+- A **dificuldade de acesso a linhas de financiamento ao microempreendedorismo** e a falta de formação profissional continuada para a população de baixa renda.  
 
-O sistema atual opera através de um **polo de economia circular e logística reversa**, integrando:
-- Educação tecnológica
-- Suporte ao empreendedorismo
+O sistema atual opera através de um **polo de economia circular e logística reversa**, integrando: 
+- Educação tecnológica 
+- Suporte ao empreendedorismo 
 - Responsabilidade ambiental
 
+Para endereçar estes desafios, o programa estrutura-se em três metas principais:
+
+- **Meta 6 - Capacitação da População**: Emissão de 2.100 certificados em cursos de tecnologia desenvolvidos no polo, com objetivos específicos de ofertar anualmente no mínimo 540 vagas em Informática Básica, 540 vagas em Montagem e Manutenção de Computadores e Celulares, e 405 vagas em Eletrônica e Robótica Livre, todos com componente de Empreendedorismo.
+
+- **Meta 7 - Projeto Idoso Tech**: Formação de 360 idosos em inclusão digital através de três módulos (Alfabetização Digital, Serviços Online e Aplicações Práticas), totalizando 60 horas de capacitação por participante, com foco em populações vulneráveis.
+
+- **Meta 8 - Trilha Empreendedora**: Certificação de pessoas na trilha de formação do programa via PRONATEC, com objetivos específicos de montar plano de ensino em parceria com o PRONATEC, criar modelo de avaliação dos alunos e desenvolver estratégia de acompanhamento dos beneficiários do Crédito Social.
 
 ### Objetivos
 
-O **Eixo 2 do Programa Sukatech** tem como objetivos principais:
+O **Eixo 2 do Programa Sukatech** tem como objetivos principais:  
 
-- **Capacitação da população** em áreas tecnológicas estratégicas, com meta de emissão de **2.100 certificados** nos cursos do polo de economia circular e logística reversa.
+- **Capacitação da população** em áreas tecnológicas estratégicas, com meta de emissão de **2.100 certificados** nos cursos do polo de economia circular e logística reversa, atendendo a população a partir de 12 anos, com critérios para equidade de gênero (60% para mulheres), inclusão de pessoas afrodescendentes e com deficiência, e priorização de pessoas em vulnerabilidade social.
+
 - **Implementação de uma trilha empreendedora**, culminando na certificação via **PRONATEC**, promovendo:
-  - Conhecimento técnico
-  - Competências empreendedoras
-- **Inclusão digital** de populações específicas como idosos, por meio do **Projeto Idoso Tech**, promovendo a integração digital.
-- **Concessão de créditos sociais** no valor de **5.000,00 reais** para  até **40 participantes** em situação de vulnerabilidade social, totalizando um investimento de **200.000,00 reais** para iniciativas empreendedoras.
+  - Conhecimento técnico em tecnologias específicas
+  - Competências empreendedoras para geração de renda
+  - Monitoramento e avaliação sistemática do desempenho dos alunos
+  - Desenvolvimento de planos de ensino alinhados às demandas do mercado
+
+- **Inclusão digital de idosos**, por meio do **Projeto Idoso Tech**, promovendo:
+  - Capacitação de 360 idosos em situação socioeconomicamente vulnerável
+  - Formação em três módulos complementares totalizando 60 horas
+  - Alfabetização e Socialização Digital (20h)
+  - Serviços e Proteção Online (20h)
+  - Aplicações Práticas das Tecnologias Digitais (20h)
+  - Aulas em 6 turmas de 30 alunos distribuídas em cidades goianas
+  - Cronograma estruturado com aulas às segundas, quartas e sextas, das 9h às 10h30
+
+- **Concessão de créditos sociais** no valor de **5.000,00 reais** para até **40 participantes** em situação de vulnerabilidade social, totalizando um investimento de **200.000,00 reais** para iniciativas empreendedoras, privilegiando:
+  - Concluintes integrais dos cursos
+  - Pessoas a partir de 18 anos
+  - Inscritos no CadÚnico
+  - Concluintes ou matriculados no Ensino Médio
+  - Destaque em evolução, comprometimento e notas
+  - Proporção de 60% para mulheres
+  - Inclusão de afrodescendentes e pessoas com deficiência
 
 
-### Escopo
+### Escopo  
 
-#### Cursos de Capacitação
+#### Cursos de Capacitação  
 
-| Curso                                                                 | Carga Horária | Vagas Anuais | Alunos por Turma |
-|-----------------------------------------------------------------------|---------------|--------------|------------------|
-| Informática Básica e Empreendedorismo                                 | 45h           | 500          | 20               |
-| Montagem e Manutenção de Computadores e de Celulares e Empreendedorismo | 70h           | 120          | 20               |
-| Eletrônica e Robótica Livre e Empreendedorismo                        | 45h           | 200          | 15               |
+| Curso                                                                 | Carga Horária | Vagas Anuais | Alunos por Turma | 
+|-----------------------------------------------------------------------|---------------|--------------|------------------| 
+| Informática Básica e Empreendedorismo                                 | 45h           | 500          | 20               | 
+| Montagem e Manutenção de Computadores e de Celulares e Empreendedorismo | 70h           | 120          | 20               | 
+| Eletrônica e Robótica Livre e Empreendedorismo                        | 45h           | 200          | 15               |  
 
+#### Projeto Idoso Tech
 
-#### Locais de Operação
+| Módulo                                       | Carga Horária | Vagas Totais | Alunos por Turma |
+|----------------------------------------------|---------------|--------------|------------------|
+| Alfabetização e Socialização Digital         | 20h           | 360          | 30               |
+| Serviços e Proteção Online                   | 20h           | 360          | 30               |
+| Aplicações Práticas das Tecnologias Digitais | 20h           | 360          | 30               |
 
-- **Sede da Sukatech** – Bairro Floresta, Goiânia
+#### Locais de Operação  
+
+- **Sede da Sukatech** – Bairro Floresta, Goiânia 
 - **Sukatech Lab** – Senador Canedo
+- **Locais estratégicos** em municípios participantes (para o Projeto Idoso Tech)  
 
-#### Turnos
+#### Turnos  
 
-- **Matutino**, **Vespertino** e **Noturno** (sob demanda)
+- **Matutino** (9h às 10h30 para Idoso Tech), **Vespertino** e **Noturno** (sob demanda)
+- **Dias da semana**: segunda, quarta e sexta (para Idoso Tech)
 
+#### Público-Alvo  
 
-#### Público-Alvo
+- População a partir de **12 anos** para cursos regulares de tecnologia
+- **Idosos** em situação de vulnerabilidade social para o Projeto Idoso Tech
+- Grupos prioritários:   
+   - **Mulheres** (60% das vagas)   
+   - **Afrodescendentes**   
+   - **Pessoas com deficiência**   
+   - **Pessoas em situação de vulnerabilidade social**
+   - **População rural, indígenas, ribeirinhos, quilombolas e trabalhadores rurais**
 
-- População a partir de **12 anos** para cursos regulares
-- Grupos prioritários:
-  - **Mulheres** (60% das vagas)
-  - **Afrodescendentes**
-  - **Pessoas com deficiência**
-  - **Pessoas em situação de vulnerabilidade social**
+#### Processos Operacionais  
 
-#### Processos Operacionais
-
-- Sistema de inscrição **presencial e online**
-- Processo seletivo com **critérios de inclusão social**
-- **Monitoramento pedagógico** com:
-  - Diários de classe
-  - Relatórios de atividade
-  - Formulários de avaliação
-- Avaliação **individual e coletiva**
+- Sistema de inscrição **presencial e online** 
+- Processo seletivo com **critérios de inclusão social** 
+- Para o Idoso Tech: **identificação e convocação** de beneficiários do CadÚnico e Programa Goiás Social
+- **Monitoramento pedagógico** com:   
+   - Diários de classe   
+   - Relatórios de atividade   
+   - Formulários de avaliação 
+- Avaliação **individual e coletiva** 
 - **Certificação** ao final dos cursos
+- **Pesquisa de satisfação** ao final de cada turma do Projeto Idoso Tech
 
+#### Cronograma
 
-#### Trilha Empreendedora
+- **Cursos regulares**: Operação contínua ao longo de 36 meses
+- **Idoso Tech**:
+  - 1ª turma: abril a julho de 2024
+  - 2ª turma: agosto a novembro de 2024
+  - Recesso: novembro a dezembro
 
-- Integração de **conteúdos de empreendedorismo** em todos os cursos
-- Possibilidade de **crédito social** para alunos destacados
-- Incentivo à **formalização como Microempreendedor Individual (MEI)**
-- **Acompanhamento e monitoramento** dos alunos beneficiados pelo crédito social
+#### Indicadores e Metas
 
+- **Cursos regulares**: 2.100 certificados emitidos
+- **Idoso Tech**:
+  - 300 matrículas realizadas
+  - 75% de frequência dos estudantes
+  - 75% de certificação (270 certificados)
+  - 100% de aplicação de pesquisa de satisfação
 
-#### Parceria Público-Privada
+#### Trilha Empreendedora  
 
-O sistema atual opera por meio de uma parceria clara entre **SECTI** e a **OSC Programando o Futuro**, com responsabilidades bem definidas. Os **fluxogramas de processos operacionais** abrangem desde a matrícula até:
-- A conclusão do curso
+- Integração de **conteúdos de empreendedorismo** em todos os cursos 
+- Possibilidade de **crédito social** para alunos destacados 
+- Incentivo à **formalização como Microempreendedor Individual (MEI)** 
+- **Acompanhamento e monitoramento** dos alunos beneficiados pelo crédito social   
+
+#### Parceria Público-Privada  
+
+O sistema atual opera por meio de uma parceria entre:
+- **SECTI** (Secretaria de Estado de Ciência, Tecnologia e Inovação)
+- **OSC Programando o Futuro**
+- **Secretaria de Desenvolvimento Social** (para o Projeto Idoso Tech)
+
+Os **fluxogramas de processos operacionais** abrangem desde a matrícula até: 
+- A conclusão do curso 
 - A possível concessão de **crédito social**
-
+- A certificação e obtenção de feedback via pesquisa de satisfação
+- 
 ### Políticas operacionais e restrições
 
 ### Políticas Operacionais
@@ -134,8 +193,11 @@ As políticas operacionais representam decisões gerenciais predeterminadas que 
 - **Documentação Sistematizada**: Manutenção de diários de classe e relatórios de atividades pedagógicas e avaliativas
 - **Flexibilidade de Turnos**: Oferta de cursos nos períodos matutino, vespertino e, sob demanda, no turno noturno
 
-
-
+#### Políticas para o Projeto Idoso Tech
+- **Priorização de Grupos Vulneráveis**: Foco em idosos socioeconomicamente vulneráveis, incluindo população rural, pessoas com deficiência, indígenas, ribeirinhos, quilombolas e trabalhadores rurais
+- **Parceria Intersetorial**: Articulação entre Superintendência de Transformação Digital e Superintendência de Desenvolvimento Sustentável
+- **Avaliação de Satisfação**: Aplicação de pesquisa de satisfação com 100% dos participantes
+  
 ### Restrições Operacionais
 
 As restrições operacionais constituem limitações impostas ao funcionamento do sistema, definindo os parâmetros dentro dos quais o Programa Sukatech deve operar.
@@ -175,7 +237,13 @@ As restrições operacionais constituem limitações impostas ao funcionamento d
 - Obrigatoriedade de seguir as diretrizes do Fundo Protege para concessão de benefícios
 - Manutenção das turmas de capacitação até o final da vigência contratual, independentemente do atingimento da meta de certificações
 
-### Descrição
+#### Restrições Específicas para o Projeto Idoso Tech
+- **Cronograma Fixo**: Execução em dois semestres específicos durante 2024
+- **Capacidade de Turmas**: Máximo de 30 alunos por turma
+- **Metas de Desempenho**: Compromisso com 75% de frequência e 75% de certificação
+- **Limitação Horária**: Aulas exclusivamente no período matutino (9h às 10h30)
+  
+#### Descrição
 ### Ambiente Operacional
 
 O Eixo 2 opera em um ambiente educacional tecnológico caracterizado por:
@@ -201,6 +269,19 @@ O Eixo 2 opera em um ambiente educacional tecnológico caracterizado por:
 - Articulação entre conclusão dos cursos e elegibilidade para crédito social
 - Compartilhamento de infraestrutura e recursos entre as diferentes linhas de capacitação
 
+#### Componentes Estruturais do Idoso Tech
+- **Estrutura Modular**: Três módulos complementares de 20h cada:
+  - Alfabetização e Socialização Digital
+  - Serviços e Proteção Online
+  - Aplicações Práticas das Tecnologias Digitais
+- **Conteúdo Especializado**: 15 tópicos distribuídos entre os três módulos, com foco progressivo em habilidades digitais
+
+##### Capacidades e Funções Específicas
+- **Combate ao Isolamento Social**: Foco específico no módulo I com atividades de conexão familiar e apoio psicológico
+- **Autonomia Digital**: Desenvolvimento progressivo desde habilidades básicas até aplicações práticas
+- **Acesso a Serviços Essenciais**: Capacitação para uso de serviços bancários, governamentais e de saúde
+- **Proteção Digital**: Formação em segurança online e identificação de fraudes digitais
+- 
 ### Interfaces com Sistemas Externos
 
 - **PRONATEC**: Parceria para certificação e metodologias de qualificação profissional
@@ -237,6 +318,15 @@ O Eixo 2 opera em um ambiente educacional tecnológico caracterizado por:
 3. Verificação de frequência mínima (75%)
 4. Certificação dos concluintes
 5. Monitoramento pós-curso para alunos beneficiados pelo crédito social
+   
+#### Fluxo do Projeto Idoso Tech
+1. Identificação e convocação de beneficiários do CadÚnico e Programa Goiás Social
+2. Seleção e capacitação do coordenador, educadores e monitores
+3. Evento de abertura do curso
+4. Realização das capacitações em três módulos sequenciais
+5. Acompanhamento contínuo e suporte aos participantes
+6. Evento de encerramento com certificação
+7. Avaliação e feedback do programa
 
 ### Custos Operacionais
 
@@ -339,6 +429,13 @@ Destinado ao treinamento e atualização da equipe pedagógica:
 - **Foco em desenvolvimento**: Aprimoramento de metodologias e técnicas
 - **Recursos**: Utilização dos laboratórios para práticas pedagógicas
 
+#### Modo Específico para o Projeto Idoso Tech
+- **Horários**: Aulas às segundas, quartas e sextas, das 9h às 10h30
+- **Cronograma**: Duas turmas anuais (abril-julho e agosto-novembro)
+- **Capacidade**: 6 turmas de 30 alunos em diferentes municípios goianos
+- **Processos Avaliativos**: Verificação de frequência e certificação com metas de 75%
+- **Feedback**: Aplicação de pesquisa de satisfação com todos os participantes
+
 #### Matriz de Referência Cruzada
 
 | Modo | Instalações | Equipamentos | Pessoal | Alunos | Processos |
@@ -349,6 +446,7 @@ Destinado ao treinamento e atualização da equipe pedagógica:
 | Manutenção | Bloqueado | Inoperante | Técnico | Sem acesso | Manutenção |
 | Avaliação | 75% disponível | Selecionados | Ampliado | Regulado | Avaliação |
 | Capacitação | 50% disponível | Compartilhados | Treinamento | Reduzido | Formação |
+| Idoso Tech | Múltiplas localidades | Adaptados | Especializado | 30 por turma | Inclusão Digital |
 
 ### Transição entre Modos
 
