@@ -1,4 +1,7 @@
-## Modelo para formalização de metas a nível de negócios
+## Origem
+Os modelos aqui apresentados foram adaptados adaptados de BASILI, Victor et al. Aligning Organizations Through Measurement: The GQM+Strategies Approach. Springer, 2014. ISBN 978-3-319-05047-8.
+
+## Aspectos básicos de um modelo organizacional (BASILI et al., 2014, p. 12)
 
 | O que é         | O que significa                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +12,7 @@
 | Escopo          | Quem ou quais organizações são responsáveis pela realização da meta? Exemplos: Gerente de projeto, empresas parceiras.                                                                                                                                                                                                                                                                                                      |
 | Restrições      | Quais restrições podem impedir a realização da meta? Exemplos: Situação de mercado, regulações, recursos disponíveis.                                                                                                                                                                                                                                                                                                       |
 | Relacionamentos | Quais outras metas são relacionadas a esta meta? Metas são concordantes se elas compartilham uma estratégia. Metas são conflitantes se uma estratégia apoia a realização de uma meta enquanto impacta negativamente em outra. Exemplo: Adotar uma nova estratégia de testes para atingir uma melhor qualidade de software requer investimentos adicionais, logo, essa meta é conflitante com uma meta de redução de custos. |
-## Modelo para metas GQM
+## Modelo para metas GQM (BASILI et al., 2014, p. 39)
 
 | O que é              | O que significa                                                                                   |
 | -------------------- | ------------------------------------------------------------------------------------------------- |
@@ -19,7 +22,7 @@
 | Do ponto de vista de | Perspectiva: Usuário, cliente, gerente, desenvolvedor, corporação, etc.                        |
 | No seguinte contexto | Ambiente: Fatores de problemas, fatores de pessoas, fatores de recurso, fatores de processo, etc. |
 
-## Modelo de tabela de abstração para formar métricas e modelos de interpretação
+## Modelo de tabela de abstração para formar métricas e modelos de interpretação (BASILI et al., 2014, p. 42)
 
 <table class="tg"><thead>
   <tr>
