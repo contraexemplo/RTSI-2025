@@ -1,7 +1,7 @@
 ## Origem
 Os modelos aqui apresentados foram traduzidos e adaptados através de modelos publicados em BASILI, Victor et al. Aligning Organizations Through Measurement: The GQM+Strategies Approach. Springer, 2014. ISBN 978-3-319-05047-8.
 
-## Aspectos básicos de um modelo organizacional (BASILI et al., 2014, p. 12)
+## Aspectos básicos de uma meta organizacional (BASILI et al., 2014, p. 12)
 
 | O que é         | O que significa                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
