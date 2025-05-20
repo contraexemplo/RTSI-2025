@@ -33,16 +33,6 @@ A perspectiva _as is_ captura descrições dos quatro eixos de operação e ger�
 
 A perspectiva _to be_ se concentra em construir uma especificação para o aprimoramento do Eixo Tranversal - Avaliação a partir de uma perspectiva sistêmica, apoiada pela compreensão contextual de todos os pilares do programa Sukatech explorados pela perspectiva _as is_.
 
-## Documentos de referência
-
-Usamos como referência os seguintes documentos:
-- Plano de Disciplina 2025-1 para a Residência em Sistemas de Informação, código 10000184, associado à Matriz Curricular SIINF-BN-2 - 2017.1;
-- Relatório da visita técnica do Squad 2 à sede do programa Sukatech no Bairro Floresta, realizada no dia 27 de março de 2025;
-- Edital de Chamamento Público nº 01/2020-SEDI, publicado em 27 de novembro de 2020;
-- Plano de Trabalho 2024-2026 do Programa Sukatech, fornecido por Thiago Angelino em 28 de março de 2025;
-- Planilha de consolidação de dados históricos do programa Sukatech, fornecida por Thiago Angelino em 28 de março de 2025;
-- Relatórios de discussões do Squad 2 com partes interessadas do programa Sukatech, realizada nos dias 07 e 08 de abril de 2025.
-
 ## Sistema atual—*as is*
 ### Eixo 1 - Cadeia Produtiva
 
@@ -975,12 +965,16 @@ Não encontramos fontes para os indicadores de avaliação da implementação da
 ### Desvantagens e limitações
 ### Alternativas consideradas
 ## Apêndices
-## Glossário
-
-## Versões
-
-|    Versão |  Publicação           | Comentários |
-|-----------|-----------------------|-------------|
-|     1.1   | 28 de abril de 2025   | Expansão de seções. Separação explícita entre sistema *as is* e sistema *to be*. |
-|     1.2   | 04 de maio de 2025    | Adicionamos uma descrição do Eixo 3 e Eixo Transversal. |
-|           |                       |             |
+### Apêndice A - Referências-chave
+1. Plano de Disciplina 2025-1 para a Residência em Sistemas de Informação, código 10000184, associado à Matriz Curricular SIINF-BN-2 - 2017.1;
+2. Relatório da visita técnica do Squad 2 à sede do programa Sukatech no Bairro Floresta, realizada no dia 27 de março de 2025;
+3. Edital de Chamamento Público nº 01/2020-SEDI, publicado em 27 de novembro de 2020;
+4. Plano de Trabalho 2024-2026 do Programa Sukatech, fornecido por Thiago Angelino em 28 de março de 2025;
+5. Planilha de consolidação de dados históricos do programa Sukatech, fornecida por Thiago Angelino em 28 de março de 2025;
+6. Relatórios de discussões do Squad 2 com partes interessadas do programa Sukatech, realizada nos dias 07 e 08 de abril de 2025;
+### Apêndice B - Conceitos-chave e suas definições
+### Apêndice C - Acrônimos e abreviações
+- INF/UFG: Instituto de Informática da Universidade Federal de Goiás
+- SECTI: Secretaria de Estado de Ciência, Tecnologia e Inovação
+- SEDUC: Secretaria de Estado da Educação
+- UFG: Universidade Federal de Goiás
