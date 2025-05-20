@@ -1,15 +1,13 @@
 # Documento de Conceito Operacional (OpsCon): Programa Sukatech
 
 ## Prefácio
-Este Documento de Conceito Operacional (OpsCon) apresenta conceitos e aspectos fundamentais sobre o Programa Sukatech para membros da comunidade acadêmica e da administração pública brasileira sob a perspectiva da grande área de Sistemas de Informação. Ele consolida a perspectiva do grupo de trabalho Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação do Instituto de Informática (INF) da Universidade Federal de Goiás (UFG). A Residência Técnica em Sistemas de Informação tem como objetivo
+Este Documento de Conceito Operacional (OpsCon) apresenta conceitos e aspectos fundamentais sobre o Programa Sukatech para membros da comunidade acadêmica, da administração pública, e do terceiro setor sob a perspectiva da grande área de Sistemas de Informação. Ele consolida observações do grupo de residentes técnicos denominado Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação (RTSI) do Instituto de Informática (INF) da Universidade Federal de Goiás (UFG).
 
-> Oportunizar ao estudante concluinte do curso de Bacharelado em Sistemas de Informação a experiência em todas as
-etapas do processo de solução de um problema real, desde a identificação e especificação do problema,
-levantamento da fundamentação teórica necessária, identificação de soluções existentes para problemas
-similares/correlatos e modelagem, até a construção da solução propriamente dita, além de documentação adequada
-de todo o processo. (Plano de Disciplina de Residência em Sistemas de Informação 2025-1, 2025, p. 1)
+Os trabalhos do Squad 2 foram desenvolvidos pelos residentes técnicos Brenda Andreia Lima Pinheiro, Fabio Tiago Vieira Soares Marques, Giovanna Waleska Theodoro Barbosa, e Yatherson Lucas Theodoro Souza. Sob orientação de Juliano Lopes de Oliveira e responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização de sociedade civil Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar e analisar problemáticas enfrentadas pelo programa Sukatech.
 
-O grupo de trabalho Squad 2 foi composto por Brenda Andreia Lima Pinheiro, Fabio Tiago Vieira Soares Marques, Giovanna Waleska Theodoro Barbosa, e Yatherson Lucas Theodoro Souza. Sob orientação de Juliano Lopes de Oliveira e responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização de sociedade civil Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelare e analisar problemáticas enfrentadas pelo programa Sukatech em 2025 a partir de uma perspectiva de Sistemas de Informação. 
+Este OpsCon introduz os leitores aos quatro eixos de atuação do Programa Sukatech, construindo um retrato de suas atividades e desafios no decorrer do primeiro semestre de 2025. Documentamos motivações, modos de operação, objetivos gerais, objetivos específicos, indicadores e fontes de dados para cada eixo através da descrição do sistema _as is_. Por conseguinte, descrevemos pontos problemáticos nas operações atuais, e propomos um sistema _to be_ através modelo de processo de medição baseado no método GQM+Strategies. Este documento, portanto, é um marco fundamental para o apoio ao desenvolvimento do planejamento e gestão estratégicos do Programa Sukatech.
+
+Esperamos que este documento seja atualizado, complementado, ou substituído à medida em que o entendimento sobre o Programa Sukatech evolui. Acreditamos, no entanto, que este documento ainda será capaz de oferecer informações valiosas sobre a gestão de um programa de economia circular no âmbito da administração pública ainda que o seu retrato se torne ultrapassado.
 
 ## Escopo
 
@@ -49,7 +47,6 @@ Usamos como referência os seguintes documentos:
 ### Eixo 1 - Cadeia Produtiva
 
 #### Contexto, objetivos, e escopo
-
 
 O **Eixo 1 do programa Sukatech – Cadeia Produtiva** visa estruturar a **logística reversa de resíduos eletroeletrônicos (REEE)** no Estado de Goiás, com foco prioritário na administração pública, mas incluindo também a sociedade civil e o setor privado. A operação é viabilizada por meio de uma rede de **Centros de Recondicionamento de Computadores (CRCs)** e **polos descentralizados**, denominados **SukaTech Labs**, que recebem resíduos provenientes de **desfazimentos institucionais, doações da sociedade civil, campanhas de arrecadação e Pontos de Entrega Voluntária (PEVs)**.
 
