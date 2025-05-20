@@ -1,14 +1,21 @@
 # Documento de Conceito Operacional (OpsCon): Programa Sukatech
 
 ## Prefácio
+Este Documento de Conceito Operacional (OpsCon) apresenta conceitos e aspectos fundamentais sobre o Programa Sukatech para membros da comunidade acadêmica e da administração pública brasileira sob a perspectiva da grande área de Sistemas de Informação. Ele consolida a perspectiva do grupo de trabalho Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação do Instituto de Informática (INF) da Universidade Federal de Goiás (UFG). A Residência Técnica em Sistemas de Informação tem como objetivo
+
+> Oportunizar ao estudante concluinte do curso de Bacharelado em Sistemas de Informação a experiência em todas as
+etapas do processo de solução de um problema real, desde a identificação e especificação do problema,
+levantamento da fundamentação teórica necessária, identificação de soluções existentes para problemas
+similares/correlatos e modelagem, até a construção da solução propriamente dita, além de documentação adequada
+de todo o processo. (Plano de Disciplina de Residência em Sistemas de Informação 2025-1, 2025, p. 1)
+
+O grupo de trabalho Squad 2 foi composto por Brenda Andreia Lima Pinheiro, Fabio Tiago Vieira Soares Marques, Giovanna Waleska Theodoro Barbosa, e Yatherson Lucas Theodoro Souza. Sob orientação de Juliano Lopes de Oliveira e responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização de sociedade civil Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelare e analisar problemáticas enfrentadas pelo programa Sukatech em 2025 a partir de uma perspectiva de Sistemas de Informação. 
+
+## Escopo
 
 O Programa de Recondicionamento de Equipamentos Eletroeletrônicos - Sukatech foi instituído pelo Decreto Estadual nº 9.718, de 24 de setembro de 2020 e é administrado Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI). Sobre as suas designações, podemos afirmar que:
 
 > O SukaTech tem a finalidade de apoiar o descarte correto e sustentável de equipamentos, materiais e bens de informática da administração pública estadual e do setor privado. Atuando na construção da logística reversa e economia circular do setor eletroeletrônico, ao passo em que recicla e recondiciona estes resíduos. Além de animar a cadeia produtiva do segmento, o programa ainda capacita a população em tecnologia, promovendo conscientização social a respeito do descarte correto destes materiais, bem como a habilitação dos mesmos para atuarem neste setor (Plano de Trabalho Programa Sukatech, 2023, p. 2).
-
-Este documento consolida as observações sobre o programa Sukatech do Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação. Responsável pela demanda "Inovação em gestão para a economia circular", o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar o sistema e algumas das problemáticas enfrentadas pelo programa Sukatech em 2025 a partir de uma perspectiva de Sistemas de Informação.
-
-## Escopo
 
 Provocados a analisar o programa Sukatech a partir de uma perspectiva de dados, indicadores e métricas, identificamos dois principais campos de problemáticas no que denominamos as "duas pontas" do programa:
 
@@ -30,7 +37,8 @@ A perspectiva _to be_ se concentra em construir uma especificação para o aprim
 
 ## Documentos de referência
 
-Usamos como referência os seguintes documentos do programa:
+Usamos como referência os seguintes documentos:
+- Plano de Disciplina 2025-1 para a Residência em Sistemas de Informação, código 10000184, associado à Matriz Curricular SIINF-BN-2 - 2017.1;
 - Relatório da visita técnica do Squad 2 à sede do programa Sukatech no Bairro Floresta, realizada no dia 27 de março de 2025;
 - Edital de Chamamento Público nº 01/2020-SEDI, publicado em 27 de novembro de 2020;
 - Plano de Trabalho 2024-2026 do Programa Sukatech, fornecido por Thiago Angelino em 28 de março de 2025;
