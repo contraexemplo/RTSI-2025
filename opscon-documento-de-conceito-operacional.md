@@ -945,7 +945,21 @@ Não encontramos fontes para os indicadores de avaliação da implementação da
 ### Mudanças consideradas, mas não incluídas
 ### Suposições e limitações
 ## Conceitos do sistema proposto—*to be*
+Elegemos o Eixo Transversal - Avaliação como o nosso eixo de interesse para a proposta de um sistema *to be*, uma vez que ele foi instituído como eixo monitor de todos os eixos de operação do programa.
 ### Contexto, objetivos, e escopo
+### Políticas operacionais e restrições
+### Descrição
+## Cenários operacionais
+## Impactos
+### Impactos operacionais
+### Impactos organizacionais
+### Impactos durante o desenvolvimento
+## Análise do sistema proposto
+### Benefícios
+### Desvantagens e limitações
+### Alternativas consideradas
+## Apêndices
+### Apêndice A - Referências-chave
 ### Políticas operacionais e restrições
 ### Descrição
 ### Modos de operação
