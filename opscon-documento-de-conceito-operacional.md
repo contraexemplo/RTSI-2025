@@ -940,21 +940,61 @@ Não encontramos indicadores de avaliação da implementação da Meta 10 defini
 Não encontramos fontes para os indicadores de avaliação da implementação da Meta 10, uma vez que não encontramos indicadores definidos pelo Plano de Trabalho 2024-2026.
 
 ## Justificativa para mudanças
+Após a análise de informações coletadas em visitas técnicas, entrevistas, reuniões e resposta a formulários, identificamos dois principais tipos de problemas nas operações do programa Sukatech da perspectiva de Sistemas de Informação:
+
+1. Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech;
+2. Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech.
+
+O problema (1) — coloquialmente chamado de "problema na ponta inicial" ou "problema na primeira ponta" — está relacionado ao coração das operações do programa Sukatech. Este problema engloba principalmente a escolha e a operação de sistemas de software utilizados para coletar, guardar e gerenciar dados sobre os três eixos de atuação do programa. Constatamos que os três eixos do programa têm graus de manualidade (isto é, o quão manual é a inserção, guarda e gerência de dados) variados, ranqueados conforme figura abaixo.
+
+Notamos que o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização e formalização. A Programando o Futuro opera programa próprio produzido por __, responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que opera.
+
+Observamos que o Eixo 2 - Capacitação e Empreendedorismo opera primariamente a partir de pastas e documentos hospedados no Google Drive.
+
+Observamos que o Eixo 3 - Educação Ambiental também opera em um alto nível de manualidade, mas alguns dos seus resultados são cobertos pelos sistemas de informação formalizados e amplamente utilizados por atividades do Eixo 1.
+
+O trânsito de dados semi estruturados entre a sede da Sukatech, gerenciada pela organização Programando o Futuro, e a SECTI é realizada através de uma planilha com várias abas na plataforma Google Drive. A inserção dos dados relacionados a métricas do programa Sukatech é feita de forma manual, uma vez ao mês. Observando esse processo, identificamos os seguintes problemas:
+
+A consolidação de dados de todos os eixos do programa é realizada através da união de recortes de várias planilhas também criadas manualmente.
+
+Cabe à Programando o Futuro a realização da transformação manual dos dados semi estruturados recebidos em métricas para monitoramento do programa Sukatech.
+
+O processamento de métricas por algum tipo de recorte (anual, semestral, por região) deve ser realizado novamente manualmente a cada novo ciclo de recebimento de dados semi estruturados.
+
+A inserção de dados semi estruturados fora do padrão estabelecido pela Secti acarreta em problemas de processamento de dados (e.g. inserção de peso de lotes em toneladas ao invés de quilogramas).
+
+A demora ocasionada pelo trânsito mensal de dados semi estruturados e pelo processamento manual destes dados acarreta em uma demora na identificação de problemas ou tendências do programa. 
+
 ### Mudanças desejadas
+O Plano de Trabalho do programa Sukatech elege as seguintes mudanças como desejadas:
+- **M10OE1:** Aperfeiçoamento da ferramenta de gestão utilizada pela Programando o Futuro, implementando:
+  - **M10OE1.1:** Acesso em tempo real aos dados de entrada, desmanufatura e recondicionamento;
+  - **M10OE1.2:** Preenchimento de processos SEI de desfazimento por servidores da SECTI;
+  - **M10OE1.2:** Área de autopreenchimento de solicitações de entidades do terceiro setor para aquisição de material recondicionado.
+- **M10OE2:** Criação de planilha de gestão centralizada de Gestão Educacional, monitorando:
+  - Inscrição de alunos;
+  - Alunos matriculados (e os respectivos documentos pessoais);
+  - Alunos desistentes;
+  - Alunos aprovados;
+  - Diário de classe;
+  - Plano de curso;
+  - Documentos pessoais de professores.
+- **M10OE3:** Criação do formulário online de avaliação socioeconômica a ser aplicado no primeiro dia de aula em sala, desenvolvido de acordo com critérios do Goiás Fomento.
+- **M10OE4:** Criação da planilha centralizada de Educação Ambiental.
+- **M10OE5:** Desenvolvimento de metodologia de avaliação de impacto socioambiental.
+  - **M10OE5.1:** Avaliação de indicadores de coleta, tratamento e redesignação de resíduos e materiais eletroeletrônicos e plástico (avaliação de impactos ambientais);
+  - **M10OE5.2:** Avaliação de indicadores educacionais (avaliação de impactos sociais diretos e indiretos);
+  - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
+- **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
+
 ### Prioridades
+É necessário pontuar, no entanto, que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por um robusto processo de medição. Para habilitar o programa para processos mais robustos com os seus dados, recomendamos que a gestão ___
 ### Mudanças consideradas, mas não incluídas
 ### Suposições e limitações
 ## Conceitos do sistema proposto—*to be*
 ### Contexto, objetivos, e escopo
 ### Políticas operacionais e restrições
 ### Descrição
-### Modos de operação
-### Classes de usuário
-#### Estrutura organizacional
-#### Perfis de classes de usuário
-#### Interações entre classes de usuário
-#### Outros atores envolvidos
-#### Ambiente de apoio
 ## Cenários operacionais
 ## Impactos
 ### Impactos operacionais
