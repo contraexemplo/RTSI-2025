@@ -987,11 +987,13 @@ O Plano de Trabalho do programa Sukatech lista as seguintes mudanças como desej
   - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
 - **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
 ### Mudanças consideradas, mas não incluídas
-Em discussões internas, a equipe de residentes técnicos considerou as seguintes propostas técnicas:
-- Normalização e enriquecimento de dados coletados através do cruzamento destes dados com bancos de dados abertos (e.g. Wikidata) através da utilização do software OpenRefine;
+Em discussões internas, a equipe de residentes técnicos considerou as seguintes propostas técnicas para o domínio do Problema 1 — Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech:
 - Especificação de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
-- Automatização do processo de criação de planilhas de eixo através do uso de scripts conectados às APIs dos sistemas utilizados pela Programando o Futuro ou soluções de automação robótica de processos (Robotic Process Automation — RPA);
+- Automatização do processo de criação de planilhas de eixo através do uso de scripts conectados às APIs dos sistemas utilizados pela Programando o Futuro ou soluções de automação robótica de processos (Robotic Process Automation — RPA).
+
+Para o domínio do Problema 2 — Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech, os residentes técnicos consideraram as seguintes propostas:
 - Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de scripts;
+- Normalização e enriquecimento de dados coletados através do cruzamento desses dados com bancos de dados abertos (por exemplo, Wikidata) através da utilização do software OpenRefine;
 - Sofisticação da análise de dados do programa Sukatech através da mineração de dados, empregando técnicas de análise de sentimentos e análise de agrupamento de dados.
 ### Suposições e limitações
 Acreditamos que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por um robusto processo de medição. Este processo de medição, por consequência, apoiará processos de tomada de decisão.
