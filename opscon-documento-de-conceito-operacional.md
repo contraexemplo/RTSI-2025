@@ -986,17 +986,31 @@ O Plano de Trabalho do programa Sukatech lista as seguintes mudanças como desej
   - **M10OE5.2:** Avaliação de indicadores educacionais (avaliação de impactos sociais diretos e indiretos);
   - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
 - **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
-### Mudanças consideradas, mas não incluídas
-Em discussões internas, a equipe de residentes técnicos considerou as seguintes propostas técnicas para o domínio do Problema 1 — Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech:
-- Especificação de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
-- Automatização do processo de criação de planilhas de eixo através do uso de scripts conectados às APIs dos sistemas utilizados pela Programando o Futuro ou soluções de automação robótica de processos (Robotic Process Automation — RPA).
 
-Para o domínio do Problema 2 — Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech, os residentes técnicos consideraram as seguintes propostas:
-- Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de scripts;
+No entanto, acreditamos que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por iniciativas de apoio ao planejamento estratégico do programa.
+
+[Pontos-chave:
+- Em nossos estudos, tivemos contato com dois principais processos do ciclo de vida de desenvolvimento de software: (1) processos de medição (2) processos de tomada de decisão.
+- O professor Juliano nos direcionou a um método de medição muito utilizado em Engenharia de Software: GQM (Goal Question Metric). Descobrimos uma aplicação do método específico para o domínio de Sistemas de Informação chamado GQM+ Strategies (Estratégias GQM+).
+- Estratégias GQM+ empregam uma perspectiva *top-down* para conectar os objetivos estratégicos de uma organização aos níveis mais baixos de operação. Elas preconizam a utilização de dados já sob o domínio da organização (em oposição à ideia de iniciar um processo completamente novo de coleta de dados) e a diminuição de custos de análise de dados.
+- Estratégias GQM+ também monitoram os relacionamentos entre objetivos para entender se objetivos diferentes interferem ou influenciam positivamente ou negativamente uns nos outros.
+- Estratégias GQM+ recomendam a criação de objetivos GQM+ e modelos de interpretação para cada objetivo GQM+. Esses modelos de interpretação, por sua vez, apoiam os processos de tomada de decisão de forma mais assertiva.]
+
+### Mudanças consideradas, mas não incluídas
+Em discussões internas, consideramos as seguintes propostas técnicas para o domínio do Problema 1 — Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech:
+- Documentação de todos os processos operacionais e gerenciais do programa Sukatech, registrando a forma atual de tais processos (_as is_) juntamente ao seu estado desejado (_to be_), classificando-os de acordo a sua maturidade de implementação através da análise da distância entre estado _as is_ e estado _to be_;
+- Especificação e desenvolvimento de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
+- Automatização do processo de criação de planilhas de eixo através do uso de *scripts* conectados às APIs dos sistemas utilizados pela Programando o Futuro e/ou soluções de automação robótica de processos (Robotic Process Automation — RPA).
+
+Para o domínio do Problema 2 — Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech, consideramos as seguintes propostas técnicas:
+- Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de *scripts* e/ou soluções de RPA;
 - Normalização e enriquecimento de dados coletados através do cruzamento desses dados com bancos de dados abertos (por exemplo, Wikidata) através da utilização do software OpenRefine;
 - Sofisticação da análise de dados do programa Sukatech através da mineração de dados, empregando técnicas de análise de sentimentos e análise de agrupamento de dados.
 ### Suposições e limitações
-Acreditamos que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por um robusto processo de medição. Este processo de medição, por consequência, apoiará processos de tomada de decisão.
+[Pontos-chave:
+- Acreditamos que a complexidade englobada pelas propostas técnicas listadas acima podem dar origem a diversos projetos de residência técnica nas graduações de Sistemas de Informação, e Inteligência Artificial, Engenharia de Software.
+- Decidimos encarar o projeto desta turma de residência técnica como um trabalho de base para outros trabalhos de apoio ao programa Sukatech. Acreditamos que ainda há muitas perguntas a serem feitas e muitas respostas a serem descobertas sobre o programa. Este é o primeiro passo para o aumento da robustez da gestão do programa.
+- Esperamos que o material produzido por nós, pela Innodeva e outros colaboradores do programa Sukatech impulsionem as iniciativas propostas acima e tantas outras que não consideramos neste momento.]
 ## Conceitos do sistema proposto—*to be*
 ### Contexto, objetivos, e escopo
 ### Políticas operacionais e restrições
