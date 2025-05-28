@@ -946,18 +946,40 @@ Não encontramos fontes para os indicadores de avaliação da implementação da
 ### Suposições e limitações
 ## Conceitos do sistema proposto—*to be*
 Elegemos o Eixo Transversal - Avaliação como o nosso eixo de interesse para a proposta de um sistema *to be*, uma vez que ele foi instituído como eixo monitor de todos os eixos de operação do programa.
-### Contexto, objetivos, e escopo
-### Políticas operacionais e restrições
-### Descrição
+
+[Pontos-chave:
+- Breve descrição da história de GQM e Estratégias GQM+.
+- Listagem de objetivos do emprego de Estratégias GQM+.
+- Listagem de exemplos de outros trabalhos com o emprego de Estratégias GQM+.
+- Argumentação sobre por que consideramos Estratégias GQM+ um método adequado para o programa Sukatech.]
+- Exposição do escopo da Prova de Conceito desenvolvida por nós residentes.
+- Descrição da aplicação de Estratégias GQM+ em metas do Eixo 2 monitoradas pelo Eixo Transversal.]
+
 ## Cenários operacionais
+[Pontos-chave:
+- Recomendações para momentos de aplicação das Estratégias GQM+.
+- Recomendações para ordens de aplicação das Estratégias GQM+.
+- Descrição de elementos dos modelos das Estratégias GQM+.
+- Descrição de aplicação das Estratégias GQM+ através da Prova de Conceito.
+- Instruções de aplicação dos artefatos das Estratégias GQM+.]
+
 ## Impactos
-### Impactos operacionais
-### Impactos organizacionais
-### Impactos durante o desenvolvimento
+[Pontos-chave:
+- Descoberta de dados ainda não monitorados pela gestão.
+- Descoberta de dados sub-utilizados ou não utilizados pela gestão.
+- Estabelecimento de processos de medição e monitoramento.
+- Estabelecimento de processos de tomada de decisão.]
+
 ## Análise do sistema proposto
 ### Benefícios
+[Pontos-chave:
+- Costura entre Estratégias GQM+ e inovação frugal.
+- Expansão de argumentação de gestão enxuta com Estratégias GQM+.]
 ### Desvantagens e limitações
-### Alternativas consideradas
+[Pontos-chave:
+- Aplicação de Estratégias GQM+ precisa ser apoiada por processos de medição e tomada de decisão.
+- Mudanças operacionais são necessárias para a efetividade da medição e tomada de decisão.
+- Estratégias GQM+ são um _primeiro passo_ de um grande processo de amadurecimento do programa.]
 ## Apêndices
 ### Apêndice A - Referências-chave
 ### Políticas operacionais e restrições
