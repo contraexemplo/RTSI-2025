@@ -940,14 +940,14 @@ Não encontramos indicadores de avaliação da implementação da Meta 10 defini
 Não encontramos fontes para os indicadores de avaliação da implementação da Meta 10, uma vez que não encontramos indicadores definidos pelo Plano de Trabalho 2024-2026.
 
 ## Justificativa para mudanças
-Após a análise de informações coletadas em visitas técnicas, entrevistas, reuniões e resposta a formulários, identificamos dois principais tipos de problemas nas operações do programa Sukatech da perspectiva de Sistemas de Informação:
+Após a análise de informações coletadas em visitas técnicas, entrevistas, reuniões e resposta a formulários, identificamos duas principais categorias de problemas nas operações do programa Sukatech a partir da perspectiva de Sistemas de Informação:
 
 1. Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech;
 2. Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech.
 
-O problema (1) — coloquialmente chamado de "problema na ponta inicial" ou "problema na primeira ponta" — está relacionado ao coração das operações do programa Sukatech. Este problema engloba principalmente a escolha e a operação de sistemas de software utilizados para coletar, guardar e gerenciar dados sobre os três eixos de atuação do programa. Constatamos que os três eixos do programa têm graus de manualidade (isto é, o quão manual é a inserção, guarda e gerência de dados) variados, ranqueados conforme figura abaixo.
+O problema (1) — coloquialmente chamado de "problema na ponta inicial" ou "problema na primeira ponta" — se relaciona ao coração das operações do programa Sukatech. Esse problema engloba principalmente a escolha e a operação de sistemas de software utilizados para coletar, guardar e gerenciar dados relacionados à execução dos três eixos de atuação do programa. Constatamos que as operações dos três eixos do programa têm graus de manualidade (isto é, o quão manual é inserção, guarda e gerência de dados) variados, ranqueados conforme figura abaixo.
 
-Notamos que o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização e formalização. A Programando o Futuro opera programa próprio produzido por __, responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que opera.
+Notamos que o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização. A Programando o Futuro opera programa próprio produzido por __, responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que opera.
 
 Observamos que o Eixo 2 - Capacitação e Empreendedorismo opera primariamente a partir de pastas e documentos hospedados no Google Drive.
 
@@ -955,18 +955,18 @@ Observamos que o Eixo 3 - Educação Ambiental também opera em um alto nível d
 
 O trânsito de dados semi estruturados entre a sede da Sukatech, gerenciada pela organização Programando o Futuro, e a SECTI é realizada através de uma planilha com várias abas na plataforma Google Drive. A inserção dos dados relacionados a métricas do programa Sukatech é feita de forma manual, uma vez ao mês. Observando esse processo, identificamos os seguintes problemas:
 
-A consolidação de dados de todos os eixos do programa é realizada através da união de recortes de várias planilhas também criadas manualmente.
+- A consolidação de dados de todos os eixos do programa é realizada através da união de recortes de várias planilhas também criadas manualmente.
 
-Cabe à Programando o Futuro a realização da transformação manual dos dados semi estruturados recebidos em métricas para monitoramento do programa Sukatech.
+- Cabe à Programando o Futuro a realização da transformação manual dos dados semi estruturados recebidos em métricas para monitoramento do programa Sukatech.
 
-O processamento de métricas por algum tipo de recorte (anual, semestral, por região) deve ser realizado novamente manualmente a cada novo ciclo de recebimento de dados semi estruturados.
+- O processamento de métricas por algum tipo de recorte (anual, semestral, por região) deve ser realizado novamente manualmente a cada novo ciclo de recebimento de dados semi estruturados.
 
-A inserção de dados semi estruturados fora do padrão estabelecido pela Secti acarreta em problemas de processamento de dados (e.g. inserção de peso de lotes em toneladas ao invés de quilogramas).
+- A inserção de dados semi estruturados fora do padrão estabelecido pela Secti acarreta em problemas de processamento de dados (e.g. inserção de peso de lotes em toneladas ao invés de quilogramas).
 
-A demora ocasionada pelo trânsito mensal de dados semi estruturados e pelo processamento manual destes dados acarreta em uma demora na identificação de problemas ou tendências do programa. 
+- A demora ocasionada pelo trânsito mensal de dados semi estruturados e pelo processamento manual destes dados acarreta em uma demora na identificação de problemas ou tendências do programa. 
 
 ### Mudanças desejadas
-O Plano de Trabalho do programa Sukatech elege as seguintes mudanças como desejadas:
+O Plano de Trabalho do programa Sukatech lista as seguintes mudanças como desejadas pela gestão:
 - **M10OE1:** Aperfeiçoamento da ferramenta de gestão utilizada pela Programando o Futuro, implementando:
   - **M10OE1.1:** Acesso em tempo real aos dados de entrada, desmanufatura e recondicionamento;
   - **M10OE1.2:** Preenchimento de processos SEI de desfazimento por servidores da SECTI;
@@ -986,11 +986,15 @@ O Plano de Trabalho do programa Sukatech elege as seguintes mudanças como desej
   - **M10OE5.2:** Avaliação de indicadores educacionais (avaliação de impactos sociais diretos e indiretos);
   - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
 - **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
-
-### Prioridades
-É necessário pontuar, no entanto, que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por um robusto processo de medição. Para habilitar o programa para processos mais robustos com os seus dados, recomendamos que a gestão ___
 ### Mudanças consideradas, mas não incluídas
+Em discussões internas, a equipe de residentes técnicos considerou as seguintes propostas técnicas:
+- Normalização e enriquecimento de dados coletados através do cruzamento destes dados com bancos de dados abertos (e.g. Wikidata) através da utilização do software OpenRefine;
+- Especificação de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
+- Automatização do processo de criação de planilhas de eixo através do uso de scripts conectados às APIs dos sistemas utilizados pela Programando o Futuro ou soluções de automação robótica de processos (Robotic Process Automation — RPA);
+- Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de scripts;
+- Sofisticação da análise de dados do programa Sukatech através da mineração de dados, empregando técnicas de análise de sentimentos e análise de agrupamento de dados.
 ### Suposições e limitações
+Acreditamos que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por um robusto processo de medição. Este processo de medição, por consequência, apoiará processos de tomada de decisão.
 ## Conceitos do sistema proposto—*to be*
 ### Contexto, objetivos, e escopo
 ### Políticas operacionais e restrições
