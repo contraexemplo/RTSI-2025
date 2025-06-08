@@ -1,4 +1,4 @@
-# Arquitetura de Negócios do Programa Sukatech
+# Arquitetura de Negócio do Programa Sukatech
 ## Conteúdo
 ```
 RTSI-2025/
