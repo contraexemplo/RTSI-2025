@@ -940,21 +940,117 @@ Não encontramos indicadores de avaliação da implementação da Meta 10 defini
 Não encontramos fontes para os indicadores de avaliação da implementação da Meta 10, uma vez que não encontramos indicadores definidos pelo Plano de Trabalho 2024-2026.
 
 ## Justificativa para mudanças
+Após a análise de informações coletadas em visitas técnicas, entrevistas, reuniões e resposta a formulários, identificamos duas principais categorias de problemas nas operações do programa Sukatech a partir da perspectiva de Sistemas de Informação:
+
+1. Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech;
+2. Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech.
+
+O problema (1) — coloquialmente chamado de "problema na ponta inicial" ou "problema na primeira ponta" — se relaciona ao coração das operações do programa Sukatech. Esse problema engloba principalmente a escolha e a operação de sistemas de software utilizados para coletar, guardar e gerenciar dados relacionados à execução dos três eixos de atuação do programa. Constatamos que as operações dos três eixos do programa têm graus de manualidade (isto é, o quão manual é inserção, guarda e gerência de dados) variados, ranqueados conforme figura abaixo.
+
+Notamos que o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização. A Programando o Futuro opera programa próprio produzido por __, responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que opera.
+
+Observamos que o Eixo 2 - Capacitação e Empreendedorismo opera primariamente a partir de pastas e documentos hospedados no Google Drive.
+
+Observamos que o Eixo 3 - Educação Ambiental também opera em um alto nível de manualidade, mas alguns dos seus resultados são cobertos pelos sistemas de informação formalizados e amplamente utilizados por atividades do Eixo 1.
+
+O trânsito de dados semi estruturados entre a sede da Sukatech, gerenciada pela organização Programando o Futuro, e a SECTI é realizada através de uma planilha com várias abas na plataforma Google Drive. A inserção dos dados relacionados a métricas do programa Sukatech é feita de forma manual, uma vez ao mês. Observando esse processo, identificamos os seguintes problemas:
+
+- A consolidação de dados de todos os eixos do programa é realizada através da união de recortes de várias planilhas também criadas manualmente.
+
+- Cabe à Programando o Futuro a realização da transformação manual dos dados semi estruturados recebidos em métricas para monitoramento do programa Sukatech.
+
+- O processamento de métricas por algum tipo de recorte (anual, semestral, por região) deve ser realizado novamente manualmente a cada novo ciclo de recebimento de dados semi estruturados.
+
+- A inserção de dados semi estruturados fora do padrão estabelecido pela Secti acarreta em problemas de processamento de dados (e.g. inserção de peso de lotes em toneladas ao invés de quilogramas).
+
+- A demora ocasionada pelo trânsito mensal de dados semi estruturados e pelo processamento manual destes dados acarreta em uma demora na identificação de problemas ou tendências do programa. 
+
 ### Mudanças desejadas
-### Prioridades
+O Plano de Trabalho do programa Sukatech lista as seguintes mudanças como desejadas pela gestão:
+- **M10OE1:** Aperfeiçoamento da ferramenta de gestão utilizada pela Programando o Futuro, implementando:
+  - **M10OE1.1:** Acesso em tempo real aos dados de entrada, desmanufatura e recondicionamento;
+  - **M10OE1.2:** Preenchimento de processos SEI de desfazimento por servidores da SECTI;
+  - **M10OE1.2:** Área de autopreenchimento de solicitações de entidades do terceiro setor para aquisição de material recondicionado.
+- **M10OE2:** Criação de planilha de gestão centralizada de Gestão Educacional, monitorando:
+  - Inscrição de alunos;
+  - Alunos matriculados (e os respectivos documentos pessoais);
+  - Alunos desistentes;
+  - Alunos aprovados;
+  - Diário de classe;
+  - Plano de curso;
+  - Documentos pessoais de professores.
+- **M10OE3:** Criação do formulário online de avaliação socioeconômica a ser aplicado no primeiro dia de aula em sala, desenvolvido de acordo com critérios do Goiás Fomento.
+- **M10OE4:** Criação da planilha centralizada de Educação Ambiental.
+- **M10OE5:** Desenvolvimento de metodologia de avaliação de impacto socioambiental.
+  - **M10OE5.1:** Avaliação de indicadores de coleta, tratamento e redesignação de resíduos e materiais eletroeletrônicos e plástico (avaliação de impactos ambientais);
+  - **M10OE5.2:** Avaliação de indicadores educacionais (avaliação de impactos sociais diretos e indiretos);
+  - **M10OE5.3:** Avaliação de indicadores de atividades (avaliação operacional - avaliação de impacto social direto e indireto).
+- **M10OE6:** Desenvolvimento de um Dashboard (BI) para acompanhamentos de dados quantitativos.
+
+No entanto, acreditamos que as mudanças acima descritas não atingirão a efetividade desejada se não forem apoiadas por iniciativas de apoio ao planejamento estratégico do programa.
+
+[Pontos-chave:
+- Em nossos estudos, tivemos contato com dois principais processos do ciclo de vida de desenvolvimento de software: (1) processos de medição (2) processos de tomada de decisão.
+- O professor Juliano nos direcionou a um método de medição muito utilizado em Engenharia de Software: GQM (Goal Question Metric). Descobrimos uma aplicação do método específico para o domínio de Sistemas de Informação chamado GQM+ Strategies (Estratégias GQM+).
+- Estratégias GQM+ empregam uma perspectiva *top-down* para conectar os objetivos estratégicos de uma organização aos níveis mais baixos de operação. Elas preconizam a utilização de dados já sob o domínio da organização (em oposição à ideia de iniciar um processo completamente novo de coleta de dados) e a diminuição de custos de análise de dados.
+- Estratégias GQM+ também monitoram os relacionamentos entre objetivos para entender se objetivos diferentes interferem ou influenciam positivamente ou negativamente uns nos outros.
+- Estratégias GQM+ recomendam a criação de objetivos GQM+ e modelos de interpretação para cada objetivo GQM+. Esses modelos de interpretação, por sua vez, apoiam os processos de tomada de decisão de forma mais assertiva.]
+
 ### Mudanças consideradas, mas não incluídas
+Em discussões internas, consideramos as seguintes propostas técnicas para o domínio do Problema 1 — Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech:
+- Documentação de todos os processos operacionais e gerenciais do programa Sukatech, registrando a forma atual de tais processos (_as is_) juntamente ao seu estado desejado (_to be_), classificando-os de acordo a sua maturidade de implementação através da análise da distância entre estado _as is_ e estado _to be_;
+- Especificação e desenvolvimento de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
+- Automatização do processo de criação de planilhas de eixo através do uso de *scripts* conectados às APIs dos sistemas utilizados pela Programando o Futuro e/ou soluções de automação robótica de processos (Robotic Process Automation — RPA).
+
+Para o domínio do Problema 2 — Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech, consideramos as seguintes propostas técnicas:
+- Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de *scripts* e/ou soluções de RPA;
+- Normalização e enriquecimento de dados coletados através do cruzamento desses dados com bancos de dados abertos (por exemplo, Wikidata) através da utilização do software OpenRefine;
+- Sofisticação da análise de dados do programa Sukatech através da mineração de dados, empregando técnicas de análise de sentimentos e análise de agrupamento de dados.
 ### Suposições e limitações
+[Pontos-chave:
+- Acreditamos que a complexidade englobada pelas propostas técnicas listadas acima podem dar origem a diversos projetos de residência técnica nas graduações de Sistemas de Informação, e Inteligência Artificial, Engenharia de Software.
+- Decidimos encarar o projeto desta turma de residência técnica como um trabalho de base para outros trabalhos de apoio ao programa Sukatech. Acreditamos que ainda há muitas perguntas a serem feitas e muitas respostas a serem descobertas sobre o programa. Este é o primeiro passo para o aumento da robustez da gestão do programa.
+- Esperamos que o material produzido por nós, pela Innodeva e outros colaboradores do programa Sukatech impulsionem as iniciativas propostas acima e tantas outras que não consideramos neste momento.]
 ## Conceitos do sistema proposto—*to be*
-### Contexto, objetivos, e escopo
+Elegemos o Eixo Transversal - Avaliação como o nosso eixo de interesse para a proposta de um sistema *to be*, uma vez que ele foi instituído como eixo monitor de todos os eixos de operação do programa.
+
+[Pontos-chave:
+- Breve descrição da história de GQM e Estratégias GQM+.
+- Listagem de objetivos do emprego de Estratégias GQM+.
+- Listagem de exemplos de outros trabalhos com o emprego de Estratégias GQM+.
+- Argumentação sobre por que consideramos Estratégias GQM+ um método adequado para o programa Sukatech.]
+- Exposição do escopo da Prova de Conceito desenvolvida por nós residentes.
+- Descrição da aplicação de Estratégias GQM+ em metas do Eixo 2 monitoradas pelo Eixo Transversal.]
+
+## Cenários operacionais
+[Pontos-chave:
+- Recomendações para momentos de aplicação das Estratégias GQM+.
+- Recomendações para ordens de aplicação das Estratégias GQM+.
+- Descrição de elementos dos modelos das Estratégias GQM+.
+- Descrição de aplicação das Estratégias GQM+ através da Prova de Conceito.
+- Instruções de aplicação dos artefatos das Estratégias GQM+.]
+
+## Impactos
+[Pontos-chave:
+- Descoberta de dados ainda não monitorados pela gestão.
+- Descoberta de dados sub-utilizados ou não utilizados pela gestão.
+- Estabelecimento de processos de medição e monitoramento.
+- Estabelecimento de processos de tomada de decisão.]
+
+## Análise do sistema proposto
+### Benefícios
+[Pontos-chave:
+- Costura entre Estratégias GQM+ e inovação frugal.
+- Expansão de argumentação de gestão enxuta com Estratégias GQM+.]
+### Desvantagens e limitações
+[Pontos-chave:
+- Aplicação de Estratégias GQM+ precisa ser apoiada por processos de medição e tomada de decisão.
+- Mudanças operacionais são necessárias para a efetividade da medição e tomada de decisão.
+- Estratégias GQM+ são um _primeiro passo_ de um grande processo de amadurecimento do programa.]
+## Apêndices
+### Apêndice A - Referências-chave
 ### Políticas operacionais e restrições
 ### Descrição
-### Modos de operação
-### Classes de usuário
-#### Estrutura organizacional
-#### Perfis de classes de usuário
-#### Interações entre classes de usuário
-#### Outros atores envolvidos
-#### Ambiente de apoio
 ## Cenários operacionais
 ## Impactos
 ### Impactos operacionais
