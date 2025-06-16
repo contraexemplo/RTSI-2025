@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" xmlns:biodi="http://bpmn.io/schema/dmn/biodi/2.0" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" id="Definitions_0z2p9sg" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.36.0" modeler:executionPlatform="Camunda Cloud" modeler:executionPlatformVersion="8.7.0">
+  <decision id="Decision_1k0fj3l" name="Determinar desempenho">
+    <informationRequirement id="InformationRequirement_19g4fjr">
+      <requiredInput href="#InputData_0ezjd23" />
+    </informationRequirement>
+    <informationRequirement id="InformationRequirement_0esbf3v">
+      <requiredInput href="#InputData_08hu2ce" />
+    </informationRequirement>
+    <informationRequirement id="InformationRequirement_1f1qmsu">
+      <requiredInput href="#InputData_1sjqhpk" />
+    </informationRequirement>
+    <authorityRequirement id="AuthorityRequirement_1qg2tw5">
+      <requiredAuthority href="#KnowledgeSource_1pbe07t" />
+    </authorityRequirement>
+    <authorityRequirement id="AuthorityRequirement_01ivudp">
+      <requiredAuthority href="#KnowledgeSource_1xriz86" />
+    </authorityRequirement>
+    <decisionTable id="DecisionTable_1cwdu03">
+      <input id="Input_1" label="Desempenho em atividades" biodi:width="198">
+        <inputExpression id="InputExpression_1" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_062gk62" label="Frequência">
+        <inputExpression id="LiteralExpression_0z2rtlk" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="Resultado" typeRef="string" />
+      <rule id="DecisionRule_1ui7sz6">
+        <inputEntry id="UnaryTests_09t9okr">
+          <text>Satisfatório</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1f3zf21">
+          <text>≥ 75%</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1t7kdbt">
+          <text>Aprovado</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0y23ea6">
+        <inputEntry id="UnaryTests_0pc88z8">
+          <text>Satisfatório</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1y11773">
+          <text>&lt; 75%</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_04xra0x">
+          <text>Reprovado</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0gbeenl">
+        <inputEntry id="UnaryTests_1tkvdsy">
+          <text>Insatisfatório</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1b7kxdq">
+          <text>≥ 75%</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0zbi2si">
+          <text>Reprovado</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1hgzbpn">
+        <inputEntry id="UnaryTests_1619i6z">
+          <text>Insatisfatório</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0kvnkh7">
+          <text>&lt; 75%</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1jrgcvm">
+          <text>Reprovado</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <inputData id="InputData_0ezjd23" name="Diários de Classe" />
+  <knowledgeSource id="KnowledgeSource_1pbe07t" name="Manual do Educador" />
+  <inputData id="InputData_08hu2ce" name="Relatórios de Atividade Pedagógica" />
+  <inputData id="InputData_1sjqhpk" name="Ficha Individual de Atividade Avaliativa" />
+  <knowledgeSource id="KnowledgeSource_1xriz86" name="Plano de Ensino" />
+  <decision id="Decision_17xz3p4" name="Determinar eligibilidade para certificação">
+    <informationRequirement id="InformationRequirement_0prt8yx">
+      <requiredDecision href="#Decision_1k0fj3l" />
+    </informationRequirement>
+    <decisionTable id="DecisionTable_0tjjnya">
+      <input id="InputClause_1l78ct6" label="Certidão de Nascimento ou Casamento">
+        <inputExpression id="LiteralExpression_1f5zzq6" typeRef="string" />
+      </input>
+      <input id="InputClause_1v2fo0w" label="CPF">
+        <inputExpression id="LiteralExpression_0gdm07y" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_0ycczhj" label="RG">
+        <inputExpression id="LiteralExpression_1l9pxwo" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_0evh2yq" label="Comprovante de Endereço">
+        <inputExpression id="LiteralExpression_0mlwibj" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_1tqnb1p" label="Comprovante de Escolaridade">
+        <inputExpression id="LiteralExpression_1ml4y51" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_01l3jfh">
+        <inputExpression id="LiteralExpression_03rlxmv" typeRef="string">
+          <text></text>
+        </inputExpression>
+      </input>
+      <output id="OutputClause_1yhzpbn" label="Certificação" typeRef="string" />
+      <rule id="DecisionRule_1pq7q9j">
+        <inputEntry id="UnaryTests_0ogg68s">
+          <text>Submetido</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_10s5t0i">
+          <text>Submetido</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_07r94q8">
+          <text>Submetido</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1bzs4y6">
+          <text>Submetido</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_07wx3pg">
+          <text>Submetido</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0rful82">
+          <text></text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0w49mc0">
+          <text>Desempedida</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0iccciz">
+        <inputEntry id="UnaryTests_15er4f4">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_065enoo">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1l277a4">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_057wsn9">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1fowpkx">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0p8cgs7">
+          <text></text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0utuix6">
+          <text>Impedida</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0zib1ye">
+        <inputEntry id="UnaryTests_1hl6k5v">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0md9rz5">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1biy73t">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0cloob9">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1puyuzr">
+          <text></text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0o5sujc">
+          <text></text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0x7n0yg">
+          <text></text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="Decision_1k0fj3l">
+        <dc:Bounds height="80" width="180" x="240" y="200" />
+      </dmndi:DMNShape>
+      <dmndi:DMNShape id="DMNShape_1jfkvqr" dmnElementRef="InputData_0ezjd23">
+        <dc:Bounds height="45" width="125" x="157" y="347" />
+      </dmndi:DMNShape>
+      <dmndi:DMNEdge id="DMNEdge_06c741p" dmnElementRef="InformationRequirement_19g4fjr">
+        <di:waypoint x="220" y="347" />
+        <di:waypoint x="285" y="300" />
+        <di:waypoint x="285" y="280" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNShape id="DMNShape_0rqn8e5" dmnElementRef="KnowledgeSource_1pbe07t">
+        <dc:Bounds height="63" width="100" x="480" y="218" />
+      </dmndi:DMNShape>
+      <dmndi:DMNEdge id="DMNEdge_0hlz6pv" dmnElementRef="AuthorityRequirement_1qg2tw5">
+        <di:waypoint x="480" y="250" />
+        <di:waypoint x="420" y="250" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNShape id="DMNShape_058682n" dmnElementRef="InputData_08hu2ce">
+        <dc:Bounds height="45" width="125" x="297" y="347" />
+      </dmndi:DMNShape>
+      <dmndi:DMNEdge id="DMNEdge_1fhcm1w" dmnElementRef="InformationRequirement_0esbf3v">
+        <di:waypoint x="360" y="347" />
+        <di:waypoint x="330" y="300" />
+        <di:waypoint x="330" y="280" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNShape id="DMNShape_0zlx46s" dmnElementRef="InputData_1sjqhpk">
+        <dc:Bounds height="45" width="125" x="447" y="347" />
+      </dmndi:DMNShape>
+      <dmndi:DMNEdge id="DMNEdge_1437fah" dmnElementRef="InformationRequirement_1f1qmsu">
+        <di:waypoint x="510" y="347" />
+        <di:waypoint x="375" y="300" />
+        <di:waypoint x="375" y="280" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNShape id="DMNShape_1fd6s2p" dmnElementRef="KnowledgeSource_1xriz86">
+        <dc:Bounds height="63" width="100" x="480" y="138" />
+      </dmndi:DMNShape>
+      <dmndi:DMNEdge id="DMNEdge_0z1247i" dmnElementRef="AuthorityRequirement_01ivudp">
+        <di:waypoint x="480" y="188" />
+        <di:waypoint x="420" y="209" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNEdge id="DMNEdge_1ahef2g" dmnElementRef="InformationRequirement_0prt8yx">
+        <di:waypoint x="330" y="200" />
+        <di:waypoint x="330" y="180" />
+        <di:waypoint x="330" y="160" />
+      </dmndi:DMNEdge>
+      <dmndi:DMNShape id="DMNShape_1u9qs1z" dmnElementRef="Decision_17xz3p4">
+        <dc:Bounds height="80" width="180" x="240" y="80" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>

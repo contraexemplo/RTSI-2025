@@ -322,42 +322,31 @@ Agredecemos ao professor Juliano Lopes de Oliveira pela sua dedicada e anteciosa
 \chapter*[Prefácio]{Prefácio}
 \addcontentsline{toc}{chapter}{Prefácio}
 
-Este Documento de Conceito Operacional (OpsCon) apresenta conceitos e aspectos fundamentais sobre o Programa Sukatech para membros da comunidade acadêmica, da administração pública, e do terceiro setor sob a perspectiva da grande área de Sistemas de Informação. Ele consolida observações do grupo de residentes técnicos denominado Squad 2 da turma de 2025-1 da Residência Técnica em Sistemas de Informação (RTSI) do Instituto de Informática (INF) da Universidade Federal de Goiás (UFG).
+Este Documento de Conceito Operacional (OpsCon) apresenta conceitos e aspectos fundamentais sobre o Programa de Recondicionamento de Equipamentos Eletroeletrônicos do Estado de Goiás - Sukatech para membros da comunidade acadêmica, da administração pública, e do terceiro setor sob a perspectiva da grande área de Sistemas de Informação.
 
-Os trabalhos do Squad 2 foram desenvolvidos pelos residentes técnicos Brenda Andreia Lima Pinheiro, Fabio Tiago Vieira Soares Marques, Giovanna Waleska Theodoro Barbosa, e Yatherson Lucas Theodoro Souza. Sob orientação de Juliano Lopes de Oliveira e responsável pela demanda ``Inovação em gestão para a economia circular'', o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da organização de sociedade civil Programando o Futuro e da Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) para modelar e analisar problemáticas enfrentadas pelo programa Sukatech.
+O programa Sukatech foi instituído pelo Decreto Estadual nº 9.718, de 24 de setembro de 2020 e é administrado Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI) e colaborativamente operacionalizado pela organização de sociedade civil Programando o Futuro. Sobre as suas designações, podemos afirmar que:
 
-Este OpsCon introduz os leitores aos quatro eixos de atuação do Programa Sukatech, construindo um retrato de suas atividades e desafios no decorrer do primeiro semestre de 2025. Documentamos motivações, modos de operação, objetivos gerais, objetivos específicos, indicadores e fontes de dados para cada eixo através da descrição do sistema atual (denominado ``sistema \textit{as is}''). Por conseguinte, descrevemos pontos problemáticos nas operações atuais, e propomos um modelo para a construção de processos de medição e tomada de decisão (denominado ``sistema to be'') através da aplicação de Estratégias GQM+. Este documento, portanto, é um marco fundamental para o apoio ao desenvolvimento do planejamento e gestão estratégicos do Programa Sukatech.
+\begin{citacao}
+O SukaTech tem a finalidade de apoiar o descarte correto e sustentável de equipamentos, materiais e bens de informática da administração pública estadual e do setor privado. Atuando na construção da logística reversa e economia circular do setor eletroeletrônico, ao passo em que recicla e recondiciona estes resíduos. Além de animar a cadeia produtiva do segmento, o programa ainda capacita a população em tecnologia, promovendo conscientização social a respeito do descarte correto destes materiais, bem como a habilitação dos mesmos para atuarem neste setor. (Plano de Trabalho Programa Sukatech, 2023, p. 2).
+\end{citacao}
 
-Esperamos que este documento seja atualizado, complementado, ou substituído à medida em que o entendimento sobre o Programa Sukatech evolui. Acreditamos, no entanto, que este documento ainda será capaz de oferecer informações valiosas sobre a gestão de um programa de economia circular no âmbito da administração pública ainda que o seu retrato se torne ultrapassado.
+Este documento consolida as observações da equipe de residentes técnicos denominada Squad 2 da turma do primeiro semestre de 2025 da Residência Técnica em Sistemas de Informação (RTSI) do Instituto de Informática (INF) da Universidade Federal de Goiás (UFG). Os trabalhos do Squad 2 foram desenvolvidos pelos residentes técnicos Brenda Andreia Lima Pinheiro, Fabio Tiago Vieira Soares Marques, Giovanna Waleska Theodoro Barbosa e Yatherson Lucas Theodoro Souza de 06 de março a 04 de julho de 2025. Sob orientação do docente Juliano Lopes de Oliveira e responsável pela demanda ``Inovação em gestão para a economia circular'', o Squad 2 realizou diversos estudos, visitas técnicas, e entrevistas com funcionários da Programando o Futuro e da SECTI para modelar e analisar as problemáticas enfrentadas pelo programa Sukatech.
+
+Introduzimos os leitores aos quatro eixos de atuação do Programa Sukatech:
+
+\begin{itemize}
+  \item Eixo 1 - Cadeia Produtiva;
+  \item Eixo 2 - Capacitação e Empreendedorismo;
+  \item Eixo 3 - Educação Ambiental;
+  \item Eixo Transversal - Avaliação.
+\end{itemize}
+
+Documentamos motivações, modos de operação, objetivos gerais, objetivos específicos, indicadores e fontes de dados para cada eixo do programa, criando o que chamamos de descrição do sistema atual (denominado ``sistema \textit{as is}''). Por conseguinte, descrevemos pontos de atenção nas operações atuais, e propomos um modelo para a construção de processos de medição e tomada de decisão (denominado ``sistema \textit{to be}'') através da aplicação de modelos derivados de Estratégias GQM+.
+
+Esperamos que este documento seja atualizado, complementado, ou substituído à medida em que o entendimento sobre o Programa Sukatech evolui. Acreditamos, no entanto, que o documento em seu estado presente ainda será capaz de oferecer informações valiosas sobre a gestão de um programa de economia circular no âmbito da administração pública ainda que o nosso relato se torne ultrapassado.
 
 \chapter*[Sumário Executivo]{Sumário Executivo}
 \addcontentsline{toc}{chapter}{Sumário Executivo}
-
-\chapter*[Escopo]{Escopo}
-\addcontentsline{toc}{chapter}{Escopo}
-
-O Programa de Recondicionamento de Equipamentos Eletroeletrônicos - Sukatech foi instituído pelo Decreto Estadual nº 9.718, de 24 de setembro de 2020 e é administrado Secretaria de Estado de Ciência, Tecnologia e Inovação (SECTI). Sobre as suas designações, podemos afirmar que:
-
-    O SukaTech tem a finalidade de apoiar o descarte correto e sustentável de equipamentos, materiais e bens de informática da administração pública estadual e do setor privado. Atuando na construção da logística reversa e economia circular do setor eletroeletrônico, ao passo em que recicla e recondiciona estes resíduos. Além de animar a cadeia produtiva do segmento, o programa ainda capacita a população em tecnologia, promovendo conscientização social a respeito do descarte correto destes materiais, bem como a habilitação dos mesmos para atuarem neste setor (Plano de Trabalho Programa Sukatech, 2023, p. 2).
-
-Provocados a analisar o programa Sukatech a partir de uma perspectiva de dados, indicadores e métricas, identificamos dois principais campos de problemáticas no que denominamos as "duas pontas" do programa:
-
-    Campo de coleta, guarda, e gerência de dados do programa Sukatech — o "nascimento" dos dados a um nível operacional;
-    Campo de consolidação, trânsito, e análise de dados do programa Sukatech — o destino final dos dados a um nível gerencial e estratégico.
-
-Descrevemos, então, o programa Sukatech em termos mais processuais do que diminutivamente em termos de sistemas de software que o englobam.
-
-Para fins de especificação da solução, descrevemos o sistema de informação que permeia e espelha a operacionalização do programa Sukatech a partir de duas perspectivas: as is (representando o retrato atual do programa Sukatech, consolidando definições formais e observações práticas) e to be (representando um projeto idealizado do programa Sukatech — aquilo que o programa almeja ser).
-
-A perspectiva as is captura descrições dos quatro eixos de operação e gerência do programa:
-
-    Eixo 1 - Cadeia Produtiva;
-    Eixo 2 - Capacitação e Empreendedorismo;
-    Eixo 3 - Educação Ambiental;
-    Eixo Transversal - Avaliação.
-
-A perspectiva to be se concentra em construir uma especificação para o aprimoramento do Eixo Tranversal - Avaliação a partir de uma perspectiva sistêmica, apoiada pela compreensão contextual de todos os pilares do programa Sukatech explorados pela perspectiva as is.
-
 
 % ----------------------------------------------------------
 % PARTE - preparação da pesquisa
@@ -372,9 +361,9 @@ A perspectiva to be se concentra em construir uma especificação para o aprimor
 
 \section{Contexto, objetivo e escopo}
 
-O Eixo 1 do programa Sukatech – Cadeia Produtiva visa estruturar a logística reversa de resíduos eletroeletrônicos (REEE) no Estado de Goiás, com foco prioritário na administração pública, mas incluindo também a sociedade civil e o setor privado. A operação é viabilizada por meio de uma rede de Centros de Recondicionamento de Computadores (CRCs) e polos descentralizados, denominados SukaTech Labs, que recebem resíduos provenientes de desfazimentos institucionais, doações da sociedade civil, campanhas de arrecadação e Pontos de Entrega Voluntária (PEVs).
+O Eixo 1 do programa Sukatech, denominado Cadeia Produtiva, visa estruturar a logística reversa de resíduos eletroeletrônicos (REEE) no Estado de Goiás. Apesar do seu foco prioritário na administração pública, este eixo também atende a demandas da sociedade civil e do setor privado. A sua operação é viabilizada por meio de uma rede de Centros de Recondicionamento de Computadores (CRCs) e polos descentralizados, denominados SukaTech Labs, que recebem resíduos provenientes de desfazimentos institucionais, doações da sociedade civil, campanhas de arrecadação e Pontos de Entrega Voluntária (PEVs).
 
-O principal objetivo deste eixo é estruturar e operacionalizar a logística reversa de equipamentos eletroeletrônicos, priorizando a triagem, recondicionamento, redistribuição para inclusão digital e o descarte ambientalmente adequado dos materiais não aproveitáveis. A proposta também busca fomentar a capacitação profissional, a inclusão socioeconômica e o desenvolvimento de soluções tecnológicas inovadoras no contexto da economia circular — tendo como principais metas estabelecidas:
+O principal objetivo deste eixo é estruturar e operacionalizar a logística reversa de equipamentos eletroeletrônicos, priorizando a triagem, recondicionamento, redistribuição para inclusão digital e o descarte ambientalmente adequado dos materiais não aproveitáveis. A proposta também busca fomentar a capacitação profissional, a inclusão socioeconômica e o desenvolvimento de soluções tecnológicas inovadoras no contexto da economia circular. As seguintes metas foram estabelecidas pelo seu plano de trabalho regente:
 
 \begin{itemize}
   \item O recebimento e processamento mínimo de 250 toneladas de REEE por ano;
@@ -384,7 +373,7 @@ O principal objetivo deste eixo é estruturar e operacionalizar a logística rev
   \item A geração de receita por meio da comercialização de resíduos recicláveis, contribuindo com a sustentabilidade financeira do programa.
 \end{itemize}
 
-Escopo:
+Para atingir as metas supracitadas, o Eixo 1 coordena e administra as seguintes atividades:
 
 \begin{itemize}
   \item Recebimento de equipamentos via doações, campanhas, desfazimentos e PEVs;
@@ -397,45 +386,53 @@ Escopo:
 
 \section{Políticas operacionais e restrições}
 
-    Legislação vigente: A operação segue os princípios da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e normativas locais sobre economia circular e logística reversa.
-    Critérios de descarte: Somente equipamentos com potencial de recondicionamento são mantidos em estoque. Itens inservíveis são destinados à cadeia de reciclagem.
-    Controle por lote: Cada item ou subconjunto é rastreado por lote.
-    Infraestrutura disponível: As atividades estão limitadas à capacidade física dos CRCs e dos polos descentralizados.
-    Limitação de pessoal: A operação depende da disponibilidade de técnicos e pessoal capacitado.
+A operação segue os princípios da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e normativas locais sobre economia circular e logística reversa.
+
+Cada item ou subconjunto recebido é rastreado por lote, e somente equipamentos com potencial de recondicionamento são mantidos em estoque. Itens inservíveis são destinados à cadeia de reciclagem. 
+
+As suas atividades estão limitadas à capacidade física dos CRCs e dos polos descentralizados, a sua operação depende da disponibilidade de técnicos e pessoal capacitado.
 
 \section{Partes envolvidas}
+\subsection{Instituições}
+\begin{itemize}
+  \item Empresas de Reciclagem: recebem resíduos inservíveis para tratamento.
+  \item Cooperativas de Catadores: possíveis parceiras no descarte.
+  \item Órgãos Públicos: colaboram com campanhas e doações.
+\end{itemize}
+
+\subsection{Personas}
+\begin{itemize}
+  \item Operador de CRC: executa atividades práticas de triagem, recondicionamento e separação de materiais recicláveis.
+  \item Gestor de Polo: supervisiona as operações nos Sukatech Labs, organiza logística de coleta e promove ações de capacitação. 
+  \item Motorista: realiza o transporte físico de materiais entre pontos de coleta e CRCs.
+  \item Técnico de manutenção: executa triagem e análise técnica, manutenção e montagem de computadores.
+  \item Técnico de Logística: responsável pelo recebimento, descarregamento, organização de estoque e envio de materiais.
+  \item Operador de sistema: atua no sistema de gestão de resíduos, registra recebimentos, agenda coletas e organiza documentos no drive.
+  \item Doador privado: realiza doações espontâneas em campanhas, PEVs ou entregas diretas. Um doador pode ser:
+  \begin{itemize}
+    \item uma pessoa física;
+    \item uma pessoa jurídica no setor privado.
+  \end{itemize}
+  \item Representante de doador público: pessoa que viabiliza desfazimentos de bens, facilitando processos via SEI.
+  \item Beneficiário: entidade receptora dos equipamentos recondicionados. Atua apenas como solicitante.
+\end{itemize}
+    
+\section{Ambiente de apoio} 
+O Eixo 1 se estabelece como eixo mais informacionalizado dentre todos os eixos de operação: a sua gerência é realizada principalmente através de um sistema de software desenvolvido localmente sob medida e operado pela Programando o Futuro para administrar todos os CRCs sob a sua responsabilidade. É importante destacar que um dos fatores-chave para a seleção de uma organização da sociedade civil no Edital de Chamamento para viabilização das operações do programa Sukatech era o oferecimento uma solução de software própria para o controle interno do ciclo de processamento dos resíduos.
 
 
-    Operador de CRC: executa atividades práticas de triagem, recondicionamento e separação de materiais recicláveis. Exige conhecimento técnico-médio.
-    Gestor de Polo: supervisiona as operações nos SukaTech Labs, organiza logística de coleta e promove ações de capacitação. Perfil administrativo e de liderança.
-    Motorista: realiza o transporte físico de materiais entre pontos de coleta e CRCs. Exige agilidade, atenção e responsabilidade no manuseio dos resíduos.
-    Técnico de manutenção: executa triagem e análise técnica, manutenção e montagem de computadores. . Nível técnico-intermediário.
-    Técnico de Logística: responsável pelo recebimento, descarregamento, organização de estoque e envio de materiais.
-    Operador de sistema: atua no sistema de gestão de resíduos, registra recebimentos, agenda coletas e organiza documentos no drive. Nível técnico-operacional.
-    Doador Institucional: órgão público que realiza desfazimentos formais de bens, com envio de documentação e processo via SEI.
-    Doador Pessoa Física ou Jurídica: realiza doações espontâneas em campanhas, PEVs ou entregas diretas. Atua como contribuinte do ecossistema.
-    Beneficiário: entidade receptora dos equipamentos recondicionados. Atua apenas como solicitante.
-    Servidor SECTI: avalia a conformidade dos processos de desfazimento e autoriza o envio de bens para o programa. Atua em interface direta com doadores institucionais.
-    Coordenação Técnica: vinculada à SECTI, supervisiona tecnicamente a operação da cadeia produtiva, define protocolos operacionais, padrões de qualidade e indicadores de desempenho.
+Esse sistema é utilizado em navegadores e hospedado em servidores controlados pela organização.
 
-Interações entre classes de usuário
 
-    Doador Institucional → Servidor SECTI: envio de documentação para análise de desfazimento.
-    Analista SECTI → Operador de Sistema: liberação e orientação sobre processos documentais.
-    Operador de Sistema → Técnico de Logística: registro de recebimentos e agendamento de coleta.
-    Doador Pessoa Física ou Jurídica → Técnico de Logística: entrega direta de equipamentos.
-    Operador de CRC → Técnico de Manutenção: transferência de itens triados para manutenção.
-    Técnico de Manutenção → Gestor: envio de status e relatórios técnicos dos equipamentos.
-    Gestor → Coordenação Técnica: consolidação e repasse de metas e indicadores.
-    Gestor → Beneficiário: organização da redistribuição de equipamentos.
 
-Outros atores envolvidos
+Dentre as suas funcionalidades mais críticas, destacamos:
 
-    Empresas de Reciclagem: recebem resíduos inservíveis para tratamento.
-    Cooperativas de Catadores: possíveis parceiras no descarte.
-    Prefeituras e Órgãos Públicos: colaboram com campanhas e doações.
+\begin{itemize}
+  \item a oportunidade de rastrear o caminho e o destino de cada lote;
+  \item a possibilidade de manter um controle de recicladores com operações regularizadas através do monitoramento da validade de certificações.
+\end{itemize}
 
-Ambiente de apoio
+Observamos, no entanto, que algumas das deficiências do software de administração têm sido supridas através do uso de um sistema de pastas e planilhas administradas no Google Drive. 
 
     Google Drive: utilizados para registro de processos de desfazimento, controle de recebimentos e compartilhamento de informações com a SECTI.
     Sistemas de planilhas: utilizados para análise e organização de dados operacionais, controle de lotes e rastreabilidade. Também utilizada para elaboração de relatórios técnicos e criação de dashboards para acompanhamento de metas e indicadores do programa.
@@ -541,19 +538,21 @@ Mensalmente, um servidor da SECTI realiza uma visita ao CRC sem aviso prévio pa
 
 Trimestralmente, a Programando o Futuro entrega um relatório à SECTI contendo:
 
-    Relatório de impacto ambiental dos resíduos coletados e encaminhados para reciclagem/recondicionamento
-    Relatório de todas as atividades educacionais desenvolvidas no CRC;
-    Relatório dos equipamentos eletroeletrônicos inservíveis que entraram no CRC;
-    Relatório dos equipamentos eletroeletrônicos que foram recondicionados e qual o local de doação;
-    Relatório descritivo com detalhamento das ações dos polos descentralizados;
-    Relatório fotográfico com detalhamento das adequação do espaço físico dos polos descentralizados;
-    Relatório Fotográfico dos cursos em andamento e das aulas práticas;
-    Cópia do material pedagógico utilizado nos cursos oferecidos no CRC;
-    Cópia dos certificados entregues aos alunos concluintes dos cursos de capacitação com a devida comprovação de carga horária cumprida pelos alunos;
-    Relatório descritivo das campanhas com detalhamento dos quantitativos arrecadados, número de pessoas envolvidas, impactos gerados;
-    Relatório descritivo das atividades envolvendo as gincanas, com detalhamento do material pedagógico utilizado, detalhamento das ações desenvolvidas, detalhamento dos membros da comunidade escolar envolvidos na ação.
+\begin{itemize}
+  \item relatório de impacto ambiental dos resíduos coletados e encaminhados para reciclagem ou recondicionamento;
+  \item relatório de todas as atividades educacionais desenvolvidas no CRC;
+  \item relatório dos equipamentos eletroeletrônicos inservíveis que entraram no CRC;
+  \item relatório dos equipamentos eletroeletrônicos que foram recondicionados e qual o local de doação;
+  \item relatório descritivo com detalhamento das ações dos polos descentralizados;
+  \item relatório fotográfico com detalhamento das adequação do espaço físico dos polos descentralizados;
+  \item relatório Fotográfico dos cursos em andamento e das aulas práticas;
+  \item cópia do material pedagógico utilizado nos cursos oferecidos no CRC;
+  \item cópia dos certificados entregues aos alunos concluintes dos cursos de capacitação com a devida comprovação de carga horária cumprida pelos alunos;
+  \item relatório descritivo das campanhas com detalhamento dos quantitativos arrecadados, número de pessoas envolvidas, impactos gerados;
+  \item relatório descritivo das atividades envolvendo as gincanas, com detalhamento do material pedagógico utilizado, detalhamento das ações desenvolvidas, detalhamento dos membros da comunidade escolar envolvidos na ação.
+\end{itemize}
 
-A SECTI também é provocada a fornecer relatórios respondendo a perguntas com recortes específicos (e.g. "Como o programa Sukatech impacta mulheres goianas?") em um curto prazo. Essas análises são realizadas empregando técnicas de filtros de campos específicos (e.g. sexo de discentes) e conhecimento organizacional.
+A SECTI também é provocada a fornecer relatórios respondendo a perguntas com recortes específicos (e.g. ``Como o programa Sukatech impacta mulheres goianas?'') em um curto prazo. Essas análises são realizadas empregando técnicas de filtros de campos específicos (e.g. sexo de discentes) e conhecimento organizacional.
 
 \section{Modos de operação}
 
@@ -562,39 +561,121 @@ A SECTI também é provocada a fornecer relatórios respondendo a perguntas com 
 
 \part{Justificativa para mudanças}
 
-\chapter{Problemáticas identificadas}
+\chapter{Problemas identificados}
+Provocados a analisar o programa Sukatech \textit{as is} a partir de uma perspectiva de dados, notamos que os processos de todos os eixos operacionais seguem uma mesma sequência de atividades-chave com responsabilidades de execução compartilhadas entre Programando o Futuro, SECTI e seus parceiros-chave:
 
-Após a análise de informações coletadas em visitas técnicas, entrevistas, reuniões e resposta a formulários, identificamos duas principais categorias de problemas nas operações do programa Sukatech a partir da perspectiva de Sistemas de Informação:
+\begin{figure}[htb]
+\caption{\label{atividades_simplificadas}Simplificação processual de atividades de eixo}
+	\begin{center}
+  \includegraphics[scale=0.15]{imagens/diagrama_atividades_simplificadas.png}
+	\end{center}
+	\legend{Fonte: os autores}
+\end{figure}
 
-    Problemas no campo de coleta, guarda, e gerência de dados do programa Sukatech;
-    Problemas no campo de consolidação, trânsito, e análise de dados do programa Sukatech.
+Todos os processos-chave de eixo são iniciados através de uma coleta de dados fundamentais. Em seguida, esses dados são paralelamente guardados de diversas formas e gerenciados — transformados ou manipulados — por atividades-chave. Esses dados, então, são consolidados por coordenadores de eixo para atender demandas de prestação de contas. Eles são enfim compartilhados com a SECTI e analisados conforme o que é preconizado por processos de medição parametrizados pelos objetivos gerais e específicos de cada eixo e por critérios de monitoramento estabelecidos pelo Eixo Transversal. As conclusões dessa atividade de análise de dados apoiam os processos de tomada de decisão do programa.
 
-O problema (1) — coloquialmente chamado de "problema na ponta inicial" ou "problema na primeira ponta" — se relaciona ao coração das operações do programa Sukatech. Esse problema engloba principalmente a escolha e a operação de sistemas de software utilizados para coletar, guardar e gerenciar dados relacionados à execução dos três eixos de atuação do programa. Constatamos que as operações dos três eixos do programa têm graus de manualidade (isto é, o quão manual é inserção, guarda e gerência de dados) variados, ranqueados conforme figura abaixo.
+Constatamos, ainda, que as atividades-chave supracitadas podem ser classificadas como parte de conjuntos de atividades de dois distintos domínios de problemas:
 
-Notamos que o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização. A Programando o Futuro opera programa próprio produzido por, responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que opera.
+\begin{enumerate}
+  \item Problemas da Ponta Inicial;
+  \item Problemas da Ponta Final.
+\end{enumerate}
 
-Observamos que o Eixo 2 - Capacitação e Empreendedorismo opera primariamente a partir de pastas e documentos hospedados no Google Drive.
+\begin{figure}[h]
+	\caption{\label{rep_dominios}Domínios de cada conjunto de atividades}
+	\begin{center}
 
-Observamos que o Eixo 3 - Educação Ambiental também opera em um alto nível de manualidade, mas alguns dos seus resultados são cobertos pelos sistemas de informação formalizados e amplamente utilizados por atividades do Eixo 1.
+  \includegraphics[scale=0.5]{imagens/diagrama_dominios_problemas.png}
+	\end{center}
+	\legend{Fonte: os autores}
+\end{figure}
 
-O trânsito de dados semi estruturados entre a sede da Sukatech, gerenciada pela organização Programando o Futuro, e a SECTI é realizada através de uma planilha com várias abas na plataforma Google Drive. A inserção dos dados relacionados a métricas do programa Sukatech é feita de forma manual, uma vez ao mês. Observando esse processo, identificamos os seguintes problemas:
 
-    A consolidação de dados de todos os eixos do programa é realizada através da união de recortes de várias planilhas também criadas manualmente.
+O Domínio 1, também denominado como Problemas da Ponta Inicial, engloba os problemas de sistemas de informação durante a execução de atividades de operacionalização do programa Sukatech. Neste domínio, identificamos dois grandes problemas:
 
-    Cabe à Programando o Futuro a realização da transformação manual dos dados semi estruturados recebidos em métricas para monitoramento do programa Sukatech.
+\begin{itemize}
+  \item \textbf{Problema 1.1:} Indisponibilidade de módulos no sistema de software utilizado pela Programando o Futuro para administração de CRCs que contemplem requisitos específicos de todos os eixos do programa Sukatech;
+  \item \textbf{Problema 1.2:} Dependência de sistemas manuais de organização de arquivos e pastas para o gerenciamento de dados de eixo (e.g. uso extensivo de Google Drive para administrar documentos de desfazimento no Eixo 1 - Cadeia Produtiva, de registros de turma no Eixo 2 - Capacitação e Empreendedorismo, de campanhas do Eixo 3 - Educação Ambiental).
+\end{itemize}
 
-    O processamento de métricas por algum tipo de recorte (anual, semestral, por região) deve ser realizado novamente manualmente a cada novo ciclo de recebimento de dados semi estruturados.
+Constatamos, ainda, que esses dois problemas estão interconectados: o Problema 1.1 provoca o Problema 1.2. Notamos, ainda, que as operações dos três eixos do programa Sukatech têm graus de manualidade (isto é, o quão manual é coleta, guarda e gerência de dados) variados: o Eixo 1 - Cadeia Produtiva é o eixo com maior grau de informacionalização uma vez que a Programando o Futuro o executa a partir de um sistema de software próprio responsável por coletar, guardar e gerenciar informações sobre doações, desfazimentos, desmanufaturas e reciclagem de todos os CRCs que a organização opera. O Eixo 2 - Capacitação e Empreendedorismo é gerenciado primariamente a partir de diversas pastas e documentos hospedados no Google Drive. O Eixo 3 - Educação Ambiental também opera em um alto nível de manualidade, mas algumas de suas atividades (e.g. coletas de campanhas) são cobertos pelos sistemas formalizados e amplamente utilizados por atividades do Eixo 1.
 
-    A inserção de dados semi estruturados fora do padrão estabelecido pela Secti acarreta em problemas de processamento de dados (e.g. inserção de peso de lotes em toneladas ao invés de quilogramas).
+O Domínio 2, também denominado como Problemas da Ponta Final, abrange os problemas de sistemas de informação de atividades de gerenciamento e planejamento estratégico do programa Sukatech. Elencamos seis principais problemas:
 
-    A demora ocasionada pelo trânsito mensal de dados semi estruturados e pelo processamento manual destes dados acarreta em uma demora na identificação de problemas ou tendências do programa.
+\begin{itemize}
+  \item \textbf{Problema 2.1:} Uso extensivo de planilhas criadas, consolidadas e administradas manualmente para processos de prestação de contas;
+  \item \textbf{Problema 2.2:} Trânsito lento de dados entre sistemas administrados pela Programando o Futuro e portais de informação compartilhados com a SECTI;
+  \item \textbf{Problema 2.3:} Manipulação acidental de dados inconsistentes e/ou disformes;
+  \item \textbf{Problema 2.4:} Processos complexos, trabalhos e extremamente manuais de transformação dos dados semi estruturados recebidos em:
+  \begin{itemize}
+    \item Métricas para monitoramento, medição de sucesso e fracasso;
+    \item Relatórios-padrão para prestação de contas;
+    \item Relatórios personalizados para prestação de contas.
+  \end{itemize}
+  \item \textbf{Problema 2.5:} Insuficiência de dados para medições-chave;
+  \item \textbf{Problema 2.6:} Diagnósticos tardios de problemas operacionais.
+\end{itemize}
 
+\begin{figure}[ht]
+	\caption{\label{rep_dependencia_dominio_2}Dependências entre problemas do Domínio 2}
+	\begin{center}
+
+  \includegraphics[scale=0.5]{imagens/diagrama_dependencia_dominio_2.png}
+	\end{center}
+	\legend{Fonte: os autores}
+\end{figure}
+
+Constatamos que os seis problemas listados também são inter-relacionados: o Problema 2.1 (consolidação manual de dados) é um fator gerador direto dos problemas 2.2 (trânsito lento de dados), 2.3 (dados inconsistentes e/ou disformes), e 2.5 (dados insuficientes). O Problema 2.3 causa o Problema 2.4 (dificuldades na transformação de dados), que influencia o Problema 2.5. O Problema 2.5, por sua vez, influencia o Problema 2.6 (dignósticos tardios).
+
+Destacamos, ainda, que os diversos relatos de grandes desafios na consolidação de dados do programa Sukatech apontam para uma forte interconexão entre os dois domínios: a ``dívida técnica'' criada pelos problemas do Domínio 1 causa os problemas do Domínio 2. Os problemas do Domínio 2, por conseguinte, perpetuam os problemas do Domínio 1.
+
+\begin{figure}[h]
+	\caption{\label{rep_dependencia_dominio}Dependências entre domínios de problemas}
+	\begin{center}
+
+  \includegraphics[scale=0.5]{imagens/diagrama_dependencia_dominios.png}
+	\end{center}
+	\legend{Fonte: os autores}
+\end{figure}
 
 \chapter{Mudanças desejadas}
+
+Ressaltamos que, apesar dos problemas citados serem objeto dos objetivos específicos elencados através do Eixo Transversal, observamos uma conexão entre os níveis mais estratégicos da gestão do Sukatech e os níveis operacionais.
+
+Ao realizar o mapeamento de metas, indicadores e fontes apontadas no Plano de Trabalho do programa Sukatech e observar ciclos mensais de prestação de contas, notamos que indicadores qualitativos (e.g. reforma realizada) e indicadores quantitativos (e.g. número de estudantes certificados) não são explicitamente acompanhados por parâmetros bem definidos de progresso, regresso, sucesso ou fracasso. Também destacamos a ausência da formalização de um processo que alinhe, entre níveis gerenciais e operacionais, expectativas e prioridades.
+
+Acreditamos que a falta de estrutura nos processos de medição do programa Sukatech comprometa significativamente os processos de tomada de decisão.
+
+Visando apoiar o crescimento e o amadurecimento do programa, 
+
 \chapter{Mudanças consideradas, mas não incluídas}
-\section{Domínio do Problema I}
-\section{Domínio do Problema II}
+\section{Domínio 1 - Problemas da Ponta Inicial}
+\begin{itemize}
+  \item Documentação de todos os processos operacionais e gerenciais do programa Sukatech, registrando a forma atual de tais processos (\textit{as is}) juntamente ao seu estado desejado (\textit{to be}), classificando-os de acordo a sua maturidade de implementação através da análise da distância entre estado (\textit{as is}) e estado (\textit{to be});
+  \item Especificação e desenvolvimento de módulos abrigando requisitos e necessidades para rastreamento das atividades do Eixos 2 e 3 para o sistema utilizado pela Programando o Futuro;
+  \item Automatização do processo de criação de planilhas de eixo através do uso de scripts conectados às APIs dos sistemas utilizados pela Programando o Futuro e/ou soluções de automação robótica de processos (Robotic Process Automation — RPA).
+\end{itemize}
+
+\section{Domínio 2 - Problemas da Ponta Final}
+
+\begin{itemize}
+  \item Automatização do processo de consolidação de planilhas de eixo em uma planilha única para a prestação de contas mensal com a SECTI através do uso de scripts e/ou soluções de RPA;
+  \item Normalização e enriquecimento de dados coletados através do cruzamento desses dados com bancos de dados abertos (por exemplo, Wikidata) através da utilização do software OpenRefine;
+  \item Sofisticação da análise de dados do programa Sukatech através da mineração de dados, empregando técnicas de análise de sentimentos e análise de agrupamento de dados.
+\end{itemize}
+
+
+\begin{figure}[h]
+	\caption{\label{rep_solucoes}Soluções consideradas}
+	\begin{center}
+
+  \includegraphics[scale=0.5]{imagens/diagrama_solucoes_consideradas.png}
+	\end{center}
+	\legend{Fonte: os autores}
+\end{figure}
+
 \chapter{Suposições e limitações}
+
 
 
 % ----------------------------------------------------------
