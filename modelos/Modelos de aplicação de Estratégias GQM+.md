@@ -46,7 +46,7 @@ Os modelos aqui apresentados foram traduzidos e adaptados através de modelos pu
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3">Quais são as métricas para medição do foco do objeto de estudo, de acordo com os membros do projeto? Isso nos ajuda a atender qual modelo deve ser usado e que perguntas precisamos fazer. Exemplos de qperguntas: Quantas falhas são detectadas após o lançamento? Exemplos de métricas: Número de falhas por severidade. Número de defeitos.</td>
-    <td class="tg-0pky" colspan="2">Que fatores contextuais podem influenicar nas métricas, de acordo com membros do projeto? Exemplo de fatores: Nível de controle de qualidade.</td>
+    <td class="tg-0pky" colspan="2">Que fatores contextuais podem influenciar nas métricas, de acordo com membros do projeto? Exemplo de fatores: Nível de controle de qualidade.</td>
   </tr>
   <tr>
     <td class="tg-amwm" colspan="3"><b>Hipóteses de referência</b></td>
